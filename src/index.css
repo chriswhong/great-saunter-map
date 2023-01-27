@@ -31,9 +31,18 @@ html, body, #root, #map {
 }
 
 .mapboxgl-ctrl-group {
-  border-radius: 15px !important;
+  border-radius: 25px !important;
 }
 
 .mapboxgl-ctrl-group .mapboxgl-ctrl-geolocate {
   display: none;
+}
+
+.mapboxgl-ctrl-group button {
+  width: 44px;
+  height: 44px;
+}
+
+.mapboxgl-ctrl-compass {
+  transform: scale(1.5)
 }

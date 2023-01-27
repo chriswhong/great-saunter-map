@@ -1,12 +1,11 @@
 import React, { useRef, useEffect, useState } from "react";
-import mapboxgl from "mapbox-gl";
+// eslint-disable-next-line
+import mapboxgl from "!mapbox-gl";
 import FontawesomeMarker from 'mapbox-gl-fontawesome-markers'
 
 import FakeNavigator from "./util/fake-navigator.js";
 
 import points from './data/points.js'
-
-import '/node_modules/mapbox-gl/dist/mapbox-gl.css'
 
 function App() {
 
@@ -25,6 +24,7 @@ function App() {
   const flyToCenter = () => {
     mapRef.current.flyTo({
       center: userLocationRef.current,
+      zoom: 16,
       duration: 1000,
       pitch: 0
     }, { // add eventData so we can distinguish programmatic camera controls from user interactions
@@ -241,7 +241,7 @@ function App() {
       <div className='absolute bottom-12 right-2.5 z-10'>
         <div className="mapboxgl-ctrl mapboxgl-ctrl-group">
           <button className="mapboxgl-ctrl-compass" type="button" aria-label="Reset bearing to north" onClick={handleLocationButtonClick}>
-            <span className={locationArrowColorClass}><i className="fa-solid fa-location-arrow"></i></span>
+            <span className={`${locationArrowColorClass} -ml-0.5`}><i className="fa-solid fa-location-arrow"></i></span>
           </button>
         </div>
       </div>
