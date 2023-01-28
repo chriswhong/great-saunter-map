@@ -191,7 +191,7 @@ const Map = ({ setShowModal }) => {
                     <button className="mapboxgl-ctrl-compass" type="button" aria-label="Reset bearing to north" onClick={() => {
                         setShowModal(true)
                     }}>
-                        <span className={`${locationArrowColorClass}`}><i className="fa-solid fa-info"></i></span>
+                        <span className={`${locationArrowColorClass}`}><i className="fa-solid fa-circle-question"></i></span>
                     </button>
                 </div>
             </div>
