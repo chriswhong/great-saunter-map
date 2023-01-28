@@ -47,6 +47,10 @@ html, body, #root, #map {
   height: 44px;
 }
 
+button.mapboxgl-popup-close-button {
+  padding: 1px 6px 1px 6px
+}
+
 .mapboxgl-ctrl-compass {
   transform: scale(1.5)
 }
