@@ -17,10 +17,10 @@ export const markerAttributes = [
       color: '#3254a8'
     },
     {
-      type: 'start/finish',
+      type: 'start-finish',
       iconClass: 'fa-solid fa-flag-checkered',
       color: 'green'
-    }
+    },
   ]
   
 

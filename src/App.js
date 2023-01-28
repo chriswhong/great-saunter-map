@@ -6,12 +6,15 @@ import FontawesomeMarker from 'mapbox-gl-fontawesome-markers'
 
 import FakeNavigator from "./util/fake-navigator.js";
 import MarkerSVG, { markerAttributes } from './Marker.js'
+import logo from './assets/img/logo.svg'
 
-import points from './data/points.js'
+import points from './assets/data/points.json'
+import route from './assets/data/route.json'
+
 
 function App() {
 
-  const [showModal, setShowModal] = useState(true)
+  const [showModal, setShowModal] = useState(false)
 
   const cancelButtonRef = useRef(null)
 
@@ -131,7 +134,7 @@ function App() {
 
       map.addSource('segments', {
         type: 'geojson',
-        data: '/data/segments.geojson'
+        data: route
       })
 
       map.addLayer({
@@ -158,6 +161,8 @@ function App() {
 
 
       points.features.forEach(({ geometry, properties }) => {
+
+
         let popupHtml = `
       <div>
         <div className="font-semibold">${properties.name}</div>
@@ -168,10 +173,12 @@ function App() {
 
         popupHtml += '</div>'
 
+        const {iconClass, color} = markerAttributes.find(d => d.type === properties.type)
+
         const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(popupHtml);
         new FontawesomeMarker({
-          icon: properties.icon,
-          color: markerAttributes.find(d => d.iconClass === properties.icon).color
+          icon: iconClass,
+          color
         })
           .setLngLat(geometry.coordinates)
           .setPopup(popup)
@@ -285,7 +292,7 @@ function App() {
                   <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
                     <div className="sm:flex sm:items-start">
                       <div className="mx-auto flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full sm:mx-0 sm:h-10 sm:w-10">
-                        <img src="../img/logo.svg" />
+                        <img src={logo} alt="shorewalkers logo" />
                       </div>
                       <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
                         <Dialog.Title as="h3" className="text-lg font-medium leading-6 text-gray-900">
@@ -293,7 +300,7 @@ function App() {
                         </Dialog.Title>
                         <div className="mt-2">
                           <p className="text-sm text-gray-500 mb-4">
-                            Use this interactive map during the Great Saunter to keep track of your progress.
+                            Use this interactive map for wayfinding during the Great Saunter.
                           </p>
 
                           <div className='border rounded-lg p-4'>
@@ -311,7 +318,7 @@ function App() {
 
 
                                   </td>
-                                  <td className='text-left'>Great Saunter Route Line</td>
+                                  <td className='text-left'>Route Line - Follow this path</td>
                                 </tr>
                               </tbody></table>
                             <p className="text-xs text-gray-500 mb-3">
