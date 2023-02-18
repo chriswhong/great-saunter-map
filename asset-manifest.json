@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/great-saunter-map/static/css/main.aa45329f.css",
-    "main.js": "/great-saunter-map/static/js/main.aee1c83d.js",
+    "main.js": "/great-saunter-map/static/js/main.65f37177.js",
     "static/js/787.50cfd972.chunk.js": "/great-saunter-map/static/js/787.50cfd972.chunk.js",
     "static/media/logo.svg": "/great-saunter-map/static/media/logo.f6a7e6cc75357a59f2ea539f09f18da6.svg",
     "index.html": "/great-saunter-map/index.html",
     "main.aa45329f.css.map": "/great-saunter-map/static/css/main.aa45329f.css.map",
-    "main.aee1c83d.js.map": "/great-saunter-map/static/js/main.aee1c83d.js.map",
+    "main.65f37177.js.map": "/great-saunter-map/static/js/main.65f37177.js.map",
     "787.50cfd972.chunk.js.map": "/great-saunter-map/static/js/787.50cfd972.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa45329f.css",
-    "static/js/main.aee1c83d.js"
+    "static/js/main.65f37177.js"
   ]
 }
