@@ -145,7 +145,6 @@ const Map = ({ setShowModal }) => {
                 }
 
                 popupHtml += '</div>'
-
                 const { iconClass, color } = markerAttributes.find(d => d.type === properties.type)
 
                 const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(popupHtml);

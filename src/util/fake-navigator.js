@@ -132,7 +132,7 @@ const dummyCoordinates = [
 
 class FakeNavigator {
     getCurrentPosition(success) {
-        console.log('invoked getCurrentPosition', success)
+        // console.log('invoked getCurrentPosition', success)
     }
 
     watchPosition(success) {

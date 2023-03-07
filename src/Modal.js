@@ -74,16 +74,20 @@ const Modal = ({ showModal, setShowModal }) => {
                                   <tbody>
     
                                     <tr>
-                                      <td className='pr-3'><MarkerSVG type='restroom' /></td>
+                                      <td className='pr-3'><MarkerSVG type='restrooms' /></td>
                                       <td className='text-left'>Restrooms</td>
                                     </tr>
                                     <tr>
-                                      <td className='pr-3'><MarkerSVG type='landmark' /></td>
-                                      <td className='text-left'>Points of Interest</td>
+                                      <td className='pr-3'><MarkerSVG type='refreshments' /></td>
+                                      <td className='text-left'>Refreshments</td>
                                     </tr>
                                     <tr>
                                       <td className='pr-3'><MarkerSVG type='route-info' /></td>
                                       <td className='text-left'>Route Info</td>
+                                    </tr>
+                                    <tr>
+                                      <td className='pr-3'><MarkerSVG type='mile-marker' /></td>
+                                      <td className='text-left'>Mile Markers</td>
                                     </tr>
                                   </tbody>
                                 </table>

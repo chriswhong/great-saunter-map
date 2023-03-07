@@ -2,7 +2,7 @@ import React from 'react'
 
 export const markerAttributes = [
     {
-      type: 'restroom',
+      type: 'restrooms',
       iconClass: 'fa-solid fa-restroom',
       color: '#7c7d80'
     },
@@ -12,15 +12,15 @@ export const markerAttributes = [
       color: '#2cbca2'
     },
     {
-      type: 'landmark',
-      iconClass: 'fa-solid fa-landmark',
-      color: '#3254a8'
+      type: 'refreshments',
+      iconClass: 'fa-solid fa-cookie-bite',
+      color: '#6387d6'
     },
     {
-      type: 'start-finish',
+      type: 'mile-marker',
       iconClass: 'fa-solid fa-flag-checkered',
-      color: 'green'
-    },
+      color: 'orange'
+    }
   ]
   
 
