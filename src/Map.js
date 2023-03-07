@@ -137,9 +137,7 @@ const Map = ({ setShowModal }) => {
 
 
                 let popupHtml = `
-      <div>
-        <div className="font-semibold">${properties.name}</div>
-      `
+      <div>      `
                 if (properties.description) {
                     popupHtml += `<div>${properties.description}</div>`
                 }
