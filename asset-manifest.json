@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/great-saunter-map/static/css/main.37ecd14a.css",
-    "main.js": "/great-saunter-map/static/js/main.6620e93e.js",
+    "main.css": "/great-saunter-map/static/css/main.da049126.css",
+    "main.js": "/great-saunter-map/static/js/main.553a4e4b.js",
     "static/js/787.50cfd972.chunk.js": "/great-saunter-map/static/js/787.50cfd972.chunk.js",
     "static/media/logo.svg": "/great-saunter-map/static/media/logo.f6a7e6cc75357a59f2ea539f09f18da6.svg",
     "index.html": "/great-saunter-map/index.html",
-    "main.37ecd14a.css.map": "/great-saunter-map/static/css/main.37ecd14a.css.map",
-    "main.6620e93e.js.map": "/great-saunter-map/static/js/main.6620e93e.js.map",
+    "main.da049126.css.map": "/great-saunter-map/static/css/main.da049126.css.map",
+    "main.553a4e4b.js.map": "/great-saunter-map/static/js/main.553a4e4b.js.map",
     "787.50cfd972.chunk.js.map": "/great-saunter-map/static/js/787.50cfd972.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37ecd14a.css",
-    "static/js/main.6620e93e.js"
+    "static/css/main.da049126.css",
+    "static/js/main.553a4e4b.js"
   ]
 }
