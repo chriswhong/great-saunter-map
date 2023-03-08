@@ -55,9 +55,9 @@ const Modal = ({ showModal, setShowModal }) => {
                                     <tr>
                                       <td className='pr-3'>
                                         <svg width="25" height="30" viewBox="0 0 25 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <rect width="6.05187" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 0.952248 25.8226)" fill="#2CBCA2" />
-                                          <rect width="6.5174" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 16.854 5.16452)" fill="#2CBCA2" />
-                                          <rect width="13.5003" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 6.63145 18.4447)" fill="#2CBCA2" />
+                                          <rect width="6.05187" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 0.952248 25.8226)" fill="#EC4A40" />
+                                          <rect width="6.5174" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 16.854 5.16452)" fill="#EC4A40" />
+                                          <rect width="13.5003" height="5.52041" transform="matrix(0.609975 -0.792421 0.755469 0.655185 6.63145 18.4447)" fill="#EC4A40" />
                                         </svg>
     
     

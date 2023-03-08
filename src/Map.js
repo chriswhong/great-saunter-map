@@ -4,7 +4,7 @@ import mapboxgl from "!mapbox-gl";
 import FontawesomeMarker from 'mapbox-gl-fontawesome-markers'
 
 import { markerAttributes } from './Marker.js'
-import { threeDBuildingsLayer, routeLineLayer } from "./assets/data/layers.js";
+import { routeLineLayer } from "./assets/data/layers.js";
 // eslint-disable-next-line
 import FakeNavigator from "./util/fake-navigator.js";
 
@@ -129,7 +129,12 @@ const Map = ({ setShowModal }) => {
                 data: route
             })
 
-            map.addLayer(routeLineLayer)
+            const layers = map.getStyle().layers;
+            const labelLayerId = layers.find(
+                (layer) => layer.type === 'symbol' && layer.layout['text-field']
+            ).id;
+            
+            map.addLayer(routeLineLayer, labelLayerId)
 
 
 
@@ -154,22 +159,6 @@ const Map = ({ setShowModal }) => {
                     .setPopup(popup)
                     .addTo(map);
             })
-        });
-
-        map.on('style.load', () => {
-            // Insert the layer beneath any symbol layer.
-            const layers = map.getStyle().layers;
-            const labelLayerId = layers.find(
-                (layer) => layer.type === 'symbol' && layer.layout['text-field']
-            ).id;
-
-            // The 'building' layer in the Mapbox Streets
-            // vector tileset contains building height data
-            // from OpenStreetMap.
-            map.addLayer(
-                threeDBuildingsLayer,
-                labelLayerId
-            );
         });
 
         map.on('click', handleUserInteraction)
