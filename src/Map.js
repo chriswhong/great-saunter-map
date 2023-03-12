@@ -148,7 +148,17 @@ const Map = ({ setShowModal }) => {
                 }
 
                 popupHtml += '</div>'
-                const { iconClass, color } = markerAttributes.find(d => d.type === properties.type)
+
+
+                let iconClass=''
+                let color='black'
+
+                const match = markerAttributes.find(d => d.type === properties.type)
+
+                if (match) {
+                    iconClass = match.iconClass
+                    color = match.color
+                }
 
                 const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(popupHtml);
                 new FontawesomeMarker({
