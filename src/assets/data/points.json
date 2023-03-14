@@ -125,7 +125,7 @@
             "properties": {
                 "name": "START and FINISH",
                 "type": "start and finish",
-                "description": "START and FINISH"
+                "description": "START 7-8 am FINISH 5-9 pm"
             },
             "geometry": {
                 "type": "Point",
@@ -157,26 +157,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Route",
-                "type": "route-info",
-                "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9210509,
-                    40.8699318,
-                    0
-                ]
-            },
-            "id": 9
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "use second staircase on Edgecombe Ave."
+                "description": "Use second staircase on Edgecombe Ave. then Bradhurst Ave. to 145th St."
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +169,7 @@
                     0
                 ]
             },
-            "id": 10
+            "id": 9
         },
         {
             "type": "Feature",
@@ -227,8 +210,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "behind Pier 1 cafe",
-                "name ": ""
+                "description": "Behind Pier 1 cafe"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +220,7 @@
                     0
                 ]
             },
-            "id": 13
+            "id": 12
         },
         {
             "type": "Feature",
@@ -255,7 +237,7 @@
                     0
                 ]
             },
-            "id": 14
+            "id": 13
         },
         {
             "type": "Feature",
@@ -272,7 +254,7 @@
                     0
                 ]
             },
-            "id": 15
+            "id": 14
         },
         {
             "type": "Feature",
@@ -289,14 +271,14 @@
                     0
                 ]
             },
-            "id": 16
+            "id": 15
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Battery Park restrooms"
+                "description": "Battery Park"
             },
             "geometry": {
                 "coordinates": [
@@ -305,7 +287,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 17
+            "id": 16
         },
         {
             "type": "Feature",
@@ -321,7 +303,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 18
+            "id": 17
         },
         {
             "type": "Feature",
@@ -337,7 +319,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 19
+            "id": 18
         },
         {
             "type": "Feature",
@@ -353,7 +335,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 20
+            "id": 19
         },
         {
             "type": "Feature",
@@ -369,23 +351,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 21
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Little Island"
-            },
-            "geometry": {
-                "coordinates": [
-                    -74.0103677736509,
-                    40.73943861555114
-                ],
-                "type": "Point"
-            },
-            "id": 22
+            "id": 20
         },
         {
             "type": "Feature",
@@ -401,7 +367,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 23
+            "id": 21
         },
         {
             "type": "Feature",
@@ -417,7 +383,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 24
+            "id": 22
         },
         {
             "type": "Feature",
@@ -433,7 +399,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 25
+            "id": 23
         },
         {
             "type": "Feature",
@@ -449,14 +415,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 26
+            "id": 24
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "use first staircase on Edegcombe Ave."
+                "description": "Use first staircase on Edegcombe Ave, then Bradhurst Ave. to 145th St."
             },
             "geometry": {
                 "coordinates": [
@@ -465,7 +431,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 27
+            "id": 25
         },
         {
             "type": "Feature",
@@ -481,7 +447,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 28
+            "id": 26
         },
         {
             "type": "Feature",
@@ -497,7 +463,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 29
+            "id": 27
         },
         {
             "type": "Feature",
@@ -513,14 +479,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 32
+            "id": 28
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "24 Sycamores Park restrooms"
+                "description": "24 Sycamores Park"
             },
             "geometry": {
                 "coordinates": [
@@ -529,7 +495,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 31
+            "id": 29
         },
         {
             "type": "Feature",
@@ -545,7 +511,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 43
+            "id": 30
         },
         {
             "type": "Feature",
@@ -561,7 +527,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 33
+            "id": 31
         },
         {
             "type": "Feature",
@@ -577,7 +543,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 34
+            "id": 32
         },
         {
             "type": "Feature",
@@ -593,14 +559,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 35
+            "id": 33
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Corlears Hook Park restrooms"
+                "description": "Corlears Hook Park"
             },
             "geometry": {
                 "coordinates": [
@@ -609,7 +575,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 36
+            "id": 34
         },
         {
             "type": "Feature",
@@ -625,7 +591,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 37
+            "id": 35
         },
         {
             "type": "Feature",
@@ -641,7 +607,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 38
+            "id": 36
         },
         {
             "type": "Feature",
@@ -657,7 +623,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 39
+            "id": 37
         },
         {
             "type": "Feature",
@@ -689,14 +655,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 41
+            "id": 39
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Route",
                 "type": "route-info",
-                "description": "Enter Riverside Park at 59th St., restrooms behind Pier 1 café at 70th St. and along the walkway at 76th St.."
+                "description": "Enter Riverside Park at 59th St."
             },
             "geometry": {
                 "coordinates": [
@@ -705,7 +671,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 42
+            "id": 40
         },
         {
             "type": "Feature",
@@ -721,7 +687,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 43
+            "id": 41
         },
         {
             "type": "Feature",
@@ -737,7 +703,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 44
+            "id": 42
         },
         {
             "type": "Feature",
@@ -753,7 +719,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 45
+            "id": 43
         },
         {
             "type": "Feature",
@@ -769,14 +735,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 46
+            "id": 44
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Route",
                 "type": "route-info",
-                "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St. or use staircases to reach restrooms in Jackie Robinson Park. then Bradhurst Ave. to 145th St. "
+                "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St. or use staircases to reach restrooms in Jackie Robinson Park, then Bradhurst Ave. to 145th St. "
             },
             "geometry": {
                 "coordinates": [
@@ -785,7 +751,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 47
+            "id": 45
         },
         {
             "type": "Feature",
@@ -801,7 +767,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 48
+            "id": 46
         },
         {
             "type": "Feature",
@@ -817,7 +783,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 49
+            "id": 47
         },
         {
             "type": "Feature",
@@ -833,7 +799,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 50
+            "id": 48
         },
         {
             "type": "Feature",
@@ -849,7 +815,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 51
+            "id": 49
         },
         {
             "type": "Feature",
@@ -865,7 +831,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 52
+            "id": 50
         },
         {
             "type": "Feature",
@@ -881,7 +847,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 53
+            "id": 51
         },
         {
             "type": "Feature",
@@ -897,7 +863,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 54
+            "id": 52
         },
         {
             "type": "Feature",
@@ -913,7 +879,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 55
+            "id": 53
         },
         {
             "type": "Feature",
@@ -929,7 +895,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 56
+            "id": 54
         },
         {
             "type": "Feature",
@@ -945,14 +911,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 57
+            "id": 55
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Route",
                 "type": "route-info",
-                "description": "Follow the detour under the Williamsburg Bridge: right on Delancey St., left on Lewis St., left on Grand St., right on the FDR service road. Then right on Cherry St. past Corlears Hook Park and left on Jackson St. to South St."
+                "description": "Follow the detour: right on Delancey St., left on Lewis St., left on Grand St., right on the FDR service road. "
             },
             "geometry": {
                 "coordinates": [
@@ -961,7 +927,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 58
+            "id": 56
         },
         {
             "type": "Feature",
@@ -977,7 +943,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 59
+            "id": 57
         },
         {
             "type": "Feature",
@@ -993,7 +959,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 60
+            "id": 58
         },
         {
             "type": "Feature",
@@ -1009,7 +975,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 61
+            "id": 59
         },
         {
             "type": "Feature",
@@ -1025,7 +991,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 63
+            "id": 60
         },
         {
             "type": "Feature",
@@ -1041,7 +1007,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 64
+            "id": 61
         },
         {
             "type": "Feature",
@@ -1057,7 +1023,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 65
+            "id": 62
         },
         {
             "type": "Feature",
@@ -1073,7 +1039,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 74
+            "id": 63
         },
         {
             "type": "Feature",
@@ -1089,7 +1055,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 67
+            "id": 64
         },
         {
             "type": "Feature",
@@ -1105,7 +1071,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 68
+            "id": 65
         },
         {
             "type": "Feature",
@@ -1121,7 +1087,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 68
+            "id": 66
         },
         {
             "type": "Feature",
@@ -1137,7 +1103,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 69
+            "id": 67
         },
         {
             "type": "Feature",
@@ -1153,7 +1119,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 70
+            "id": 68
         },
         {
             "type": "Feature",
@@ -1169,7 +1135,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 71
+            "id": 69
         },
         {
             "type": "Feature",
@@ -1185,7 +1151,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 72
+            "id": 70
         },
         {
             "type": "Feature",
@@ -1201,7 +1167,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 73
+            "id": 71
         },
         {
             "type": "Feature",
@@ -1217,7 +1183,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 74
+            "id": 72
         },
         {
             "type": "Feature",
@@ -1233,7 +1199,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 76
+            "id": 73
         },
         {
             "type": "Feature",
@@ -1249,7 +1215,7 @@
                 ],
                 "type": "Point"
             },
-            "id": 76
+            "id": 74
         },
         {
             "type": "Feature",
@@ -1265,14 +1231,14 @@
                 ],
                 "type": "Point"
             },
-            "id": 77
+            "id": 75
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Route",
                 "type": "route-info",
-                "description": "Left on 71st St. to the pedestrian bridge and back to the walkway.  "
+                "description": "Left on 71st St. to the pedestrian bridge and back to the walkway. "
             },
             "geometry": {
                 "coordinates": [
@@ -1281,7 +1247,56 @@
                 ],
                 "type": "Point"
             },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Little Island"
+            },
+            "geometry": {
+                "coordinates": [
+                    -74.01041530944114,
+                    40.741754980856
+                ],
+                "type": "Point"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route",
+                "type": "route-info",
+                "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
+            },
+            "geometry": {
+                "coordinates": [
+                    -73.92076995727193,
+                    40.869780812019485
+                ],
+                "type": "Point"
+            },
             "id": 78
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name ": "",
+                "type": "route-info",
+                "description": "Right on Cherry St. past Corlears Hook Park and left on Jackson St. to South St.",
+                "name": "Route"
+            },
+            "geometry": {
+                "coordinates": [
+                    -73.97802864728895,
+                    40.71246410305662
+                ],
+                "type": "Point"
+            },
+            "id": 79
         }
     ]
 }
