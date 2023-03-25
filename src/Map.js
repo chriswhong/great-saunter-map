@@ -108,6 +108,7 @@ const Map = ({ setShowModal }) => {
             showUserHeading: true,
             // geolocation: new FakeNavigator()
         })
+
         map.addControl(
             geolocateControl
         );
@@ -133,12 +134,22 @@ const Map = ({ setShowModal }) => {
             const labelLayerId = layers.find(
                 (layer) => layer.type === 'symbol' && layer.layout['text-field']
             ).id;
-            
+
             map.addLayer(routeLineLayer, labelLayerId)
 
+            const sortedPoints = points.features.sort((a, b) => {
+                if (a.geometry.coordinates[1] > b.geometry.coordinates[1]) {
+                    return -1
+                }
 
+                if (a.geometry.coordinates[1] < b.geometry.coordinates[1]) {
+                    return 1
+                }
 
-            points.features.forEach(({ geometry, properties }) => {
+                return 0
+            })
+
+            sortedPoints.forEach(({ geometry, properties }) => {
 
 
                 let popupHtml = `
@@ -150,8 +161,8 @@ const Map = ({ setShowModal }) => {
                 popupHtml += '</div>'
 
 
-                let iconClass=''
-                let color='black'
+                let iconClass = ''
+                let color = 'black'
 
                 const match = markerAttributes.find(d => d.type === properties.type)
 
