@@ -32,7 +32,7 @@ export const markerAttributes = [
 const MarkerSVG = ({ type }) => {
   const { iconClass, color } = markerAttributes.find(d => d.type === type)
   return (
-    <div className='relative'>
+    <div className='relative inline-block'>
       <svg display="block" height="41px" width="27px" viewBox="0 0 27 41">
         <defs>
           <radialGradient id="shadowGradient">
