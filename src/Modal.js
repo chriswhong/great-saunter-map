@@ -9,7 +9,7 @@ const Modal = ({ showModal, setShowModal }) => {
 
   return (
     <Transition.Root show={showModal} as={Fragment}>
-      <Dialog as="div" className="relative z-10" initialFocus={cancelButtonRef} onClose={setShowModal}>
+      <Dialog as="div" className="relative z-30" initialFocus={cancelButtonRef} onClose={setShowModal}>
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"
