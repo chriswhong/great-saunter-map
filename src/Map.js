@@ -11,7 +11,7 @@ import FakeNavigator from "./util/fake-navigator.js";
 import points from './assets/data/points.json'
 import route from './assets/data/route.json'
 
-const Map = ({ setShowModal }) => {
+const Map = ({ setShowModal, isMobile }) => {
     const [mapState, setMapState] = useState('FREE')
     const [userLocation, setUserLocation] = useState()
 
@@ -193,7 +193,8 @@ const Map = ({ setShowModal }) => {
 
     return (
         <>
-            <div className='absolute bottom-28 right-2.5 z-10'>
+            <div className='absolute bottom-12 right-2.5 z-10'>
+            <div className=''>
                 <div className="mapboxgl-ctrl mapboxgl-ctrl-group">
                     <button className="mapboxgl-ctrl-compass" type="button" aria-label="Reset bearing to north" onClick={() => {
                         setShowModal(true)
@@ -202,13 +203,17 @@ const Map = ({ setShowModal }) => {
                     </button>
                 </div>
             </div>
-            <div className='absolute bottom-12 right-2.5 z-10'>
-                <div className="mapboxgl-ctrl mapboxgl-ctrl-group">
-                    <button className="mapboxgl-ctrl-compass" type="button" aria-label="Reset bearing to north" onClick={handleLocationButtonClick}>
-                        <span className={`${locationArrowColorClass} -ml-0.5`}><i className="fa-solid fa-location-arrow"></i></span>
-                    </button>
+            {isMobile && (
+                <div className='mt-3'>
+                    <div className="mapboxgl-ctrl mapboxgl-ctrl-group">
+                        <button className="mapboxgl-ctrl-compass" type="button" aria-label="Reset bearing to north" onClick={handleLocationButtonClick}>
+                            <span className={`${locationArrowColorClass} -ml-0.5`}><i className="fa-solid fa-location-arrow"></i></span>
+                        </button>
+                    </div>
                 </div>
+            )}
             </div>
+
             <div id="map" ref={mapContainer} className="map-container" />
         </>
     )
