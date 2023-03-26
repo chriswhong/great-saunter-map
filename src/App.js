@@ -1,5 +1,9 @@
 import React, { useState } from "react";
 
+import {
+  useSearchParams
+} from "react-router-dom";
+
 import Modal from './Modal'
 import SplashModal from './SplashModal'
 import Map from './Map'
@@ -10,12 +14,13 @@ function App() {
 
   const [showModal, setShowModal] = useState(false)
 
-
-  const isMobile = window.location.pathname.includes('mobile')
+  const [searchParams] = useSearchParams();
+  const isMobile = searchParams.get('mobile') === 'true'
 
   const [splashModalDismissed, setSplashModalDismissed] = useLocalStorage("splashModalDismissed", false);
-  
+
   const [showSplashModal, setShowSplashModal] = useState(isMobile && !splashModalDismissed)
+  
 
 
   return (
@@ -30,10 +35,9 @@ function App() {
         setShowModal={setShowSplashModal}
         setDontShowAgain={(checked) => {
           if (checked) {
-            console.log('setting localstorage')
             setSplashModalDismissed(true)
           }
-        }}/>
+        }} />
     </>
   )
 }
