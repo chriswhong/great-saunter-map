@@ -13,7 +13,7 @@ import './index.css';
 
 const router = createBrowserRouter([
   {
-    path: "/great-saunter-map",
+    path: "/",
     element: <App />,
   },
 ]);
