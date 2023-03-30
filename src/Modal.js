@@ -74,17 +74,17 @@ const Modal = ({ showModal, setShowModal }) => {
                               <div className='relative'><MarkerSVG type='restrooms' /></div>
                               <div className='text-center'>Restrooms</div>
                             </div>
-                            <div>
+                            <div className='text-center'>
                               <div className='relative'><MarkerSVG type='refreshments' /></div>
                               <div className='text-center'>Refreshments</div>
                             </div>
                           </div>
                           <div className='grid grid-cols-2 gap-x-3 items-stretch text-xs font-bold mb-2'>
-                            <div>
+                            <div className='text-center'>
                               <div className='relative'><MarkerSVG type='route-info' /></div>
                               <div className='text-center'>Route Info</div>
                             </div>
-                            <div>
+                            <div className='text-center'>
                               <div className='relative'><MarkerSVG type='mile-marker' /></div>
                               <div className='text-center'>Mile Markers</div>
                             </div>
