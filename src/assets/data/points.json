@@ -1,1303 +1,1335 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Snack stop & Late bib pick-up 8-10 am"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.00168,
-            40.762044,
-            0
-          ]
-        },
-        "id": 0
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route ",
-          "type": "route-info",
-          "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.974359,
-            40.801141,
-            0
-          ]
-        },
-        "id": 1
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Staten Island Ferry - 2nd floor"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0136641,
-            40.7010855,
-            0
-          ]
-        },
-        "id": 2
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Charles Young playground"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9361508,
-            40.819672,
-            0
-          ]
-        },
-        "id": 3
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Athletic Building"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9567334,
-            40.8263262,
-            0
-          ]
-        },
-        "id": 4
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Robert Moses Playground"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9686912,
-            40.7481023,
-            0
-          ]
-        },
-        "id": 5
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Cultural Center"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9559662,
-            40.826448,
-            0
-          ]
-        },
-        "id": 6
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "START and FINISH",
-          "type": "start and finish",
-          "description": "START and FINISH"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0112392,
-            40.7035115,
-            0
-          ]
-        },
-        "id": 7
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Inwood Hill Park"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9213821,
-            40.870234,
-            0
-          ]
-        },
-        "id": 8
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9210509,
-            40.8699318,
-            0
-          ]
-        },
-        "id": 9
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "use second staircase on Edgecombe Ave."
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9412964,
-            40.8259396,
-            0
-          ]
-        },
-        "id": 10
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Women's Restroom"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9864748,
-            40.783679,
-            0
-          ]
-        },
-        "id": 11
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Men's Restroom"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9868047,
-            40.7832169,
-            0
-          ]
-        },
-        "id": 12
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "behind Pier 1 cafe",
-          "name ": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9886205,
-            40.779821,
-            0
-          ]
-        },
-        "id": 13
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry, left into Battery Park just past the playground, walk straight out to New York Harbor, turn right, then another right through the East Coast Memorial Plaza, left on the park path and walk in front of Castle Clinton to Battery Place. "
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0111907,
-            40.7032777,
-            0
-          ]
-        },
-        "id": 14
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill. "
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9316061,
-            40.8693047,
-            0
-          ]
-        },
-        "id": 15
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Pass under the railroad bridge and then U-turn on to the highway ramp and out to Madison Ave. at 135th St. "
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9342723,
-            40.8114662,
-            0
-          ]
-        },
-        "id": 16
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Battery Park restrooms"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01585147732442,
-            40.70439795743843
-          ],
-          "type": "Point"
-        },
-        "id": 17
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "1st floor lobby by P.J. Clarke's"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01596299578564,
-            40.71370924793251
-          ],
-          "type": "Point"
-        },
-        "id": 18
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Pier 25"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01273067309441,
-            40.72005379699314
-          ],
-          "type": "Point"
-        },
-        "id": 19
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Pier 45"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.0106882987618,
-            40.73290184839365
-          ],
-          "type": "Point"
-        },
-        "id": 20
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Pier 51"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01033886338836,
-            40.73799503058524
-          ],
-          "type": "Point"
-        },
-        "id": 21
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Little Island"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.0103677736509,
-            40.73943861555114
-          ],
-          "type": "Point"
-        },
-        "id": 22
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "39th St. ferry terminal"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.00309634549701,
-            40.760598458187644
-          ],
-          "type": "Point"
-        },
-        "id": 23
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Pier 84"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.00062328111116,
-            40.763170013662204
-          ],
-          "type": "Point"
-        },
-        "id": 24
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "The Forum - walk on north side of  125th St. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.95866725273002,
-            40.816463039697425
-          ],
-          "type": "Point"
-        },
-        "id": 25
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Parks Dept. building"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93122020229941,
-            40.868647147150654
-          ],
-          "type": "Point"
-        },
-        "id": 26
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "use first staircase on Edegcombe Ave."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9399633170056,
-            40.827941590549244
-          ],
-          "type": "Point"
-        },
-        "id": 27
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Target"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93124959210321,
-            40.79534696621528
-          ],
-          "type": "Point"
-        },
-        "id": 28
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Stanley Issacs Playground restrooms"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94455485982242,
-            40.78291085730595
-          ],
-          "type": "Point"
-        },
-        "id": 29
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "John Jay Park"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9492773545928,
-            40.76884234257781
-          ],
-          "type": "Point"
-        },
-        "id": 32
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "24 Sycamores Park restrooms"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.95887598067291,
-            40.75941189471243
-          ],
-          "type": "Point"
-        },
-        "id": 31
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "St. Vartan Park"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97321951104756,
-            40.74501181830186
-          ],
-          "type": "Point"
-        },
-        "id": 43
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "East River Park at E. 10th St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97283608356781,
-            40.72383942336893
-          ],
-          "type": "Point"
-        },
-        "id": 33
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Women's Restroom"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97402957155356,
-            40.72196542510588
-          ],
-          "type": "Point"
-        },
-        "id": 34
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Men's Restroom"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97409885752126,
-            40.721631605953945
-          ],
-          "type": "Point"
-        },
-        "id": 35
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Corlears Hook Park restrooms"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97979170910793,
-            40.71174333721734
-          ],
-          "type": "Point"
-        },
-        "id": 36
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "5 miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.0045869073372,
-            40.7581961851165
-          ],
-          "type": "Point"
-        },
-        "id": 37
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "10 miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.96024497463738,
-            40.81986230735342
-          ],
-          "type": "Point"
-        },
-        "id": 38
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "15 Miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9295007689401,
-            40.87399012962615
-          ],
-          "type": "Point"
-        },
-        "id": 39
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on Battery Place, walk along the wooden fence, left on 1st Place, right on the Battery Park City Esplanade along the Hudson River."
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01645990219373,
-            40.704708833213715
-          ],
-          "type": "Point"
-        },
-        "id": 40
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow the Esplanade north past Brookfield Place to Hudson River Park and continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers and the Intrepid. "
-        },
-        "geometry": {
-          "coordinates": [
-            -74.01854973073881,
-            40.70671908512108
-          ],
-          "type": "Point"
-        },
-        "id": 41
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Enter Riverside Park at 59th St., restrooms behind Pier 1 café at 70th St. and along the walkway at 76th St.."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.99382721698794,
-            40.77317891611105
-          ],
-          "type": "Point"
-        },
-        "id": 42
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "At the bottom of the hill take a short left past Shorakkopoch Rock, go right directly after the rock, take the next right up the hill behind the dog run to the Great Saunter lunch break."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.92365037683253,
-            40.87336094402099
-          ],
-          "type": "Point"
-        },
-        "id": 43
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Bear left and enter the Harlem River Drive Greenway in front of the school. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.92279009216834,
-            40.85884196635291
-          ],
-          "type": "Point"
-        },
-        "id": 44
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge and the High Bridge."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.92777191857208,
-            40.84814003926303
-          ],
-          "type": "Point"
-        },
-        "id": 45
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow the ramp away from the river, carefully cross the street at the end of the ramp, turn right and go up the hill to 155th St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93478738890099,
-            40.835821506334014
-          ],
-          "type": "Point"
-        },
-        "id": 46
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St. or use staircases to reach restrooms in Jackie Robinson Park. then Bradhurst Ave. to 145th St. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94001808429199,
-            40.83046181192586
-          ],
-          "type": "Point"
-        },
-        "id": 47
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on 143rd St., right on Fifth Ave. to 142nd St. Cross the pedestrian bridge to Harlem River Park, walk south through the park with the river on your left."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9369364666294,
-            40.8191525146342
-          ],
-          "type": "Point"
-        },
-        "id": 48
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on Madison Ave. to 128th St., left on 128th St. to 2nd Ave. Right on 2nd Ave. then left on 120th St. to Pleasant Ave. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93587273153301,
-            40.812063198145154
-          ],
-          "type": "Point"
-        },
-        "id": 49
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Right on Pleasant Ave, enter Thomas Jefferson Park, follow the park walkway and cross the pedestrian bridge at 112th St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93147321805698,
-            40.797639412253346
-          ],
-          "type": "Point"
-        },
-        "id": 50
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on Cherokee Place, right on 76th St., left on York Ave. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94948751464867,
-            40.77003094632698
-          ],
-          "type": "Point"
-        },
-        "id": 51
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow the ramp past the Alice Aycock Pavilion to York Ave., left on York Ave./Sutton Place to 53rd St.."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.957162309505,
-            40.76001642775702
-          ],
-          "type": "Point"
-        },
-        "id": 52
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Right on 53rd St. to left on 1st Ave., pass the United Nations."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.96246494390371,
-            40.75495944683678
-          ],
-          "type": "Point"
-        },
-        "id": 53
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on 37th St., carefully cross the service road and go under the FDR to the East River Esplanade, go right."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97196669506764,
-            40.74569006193164
-          ],
-          "type": "Point"
-        },
-        "id": 54
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "At 20th St., cross Ave. C, turn left and follow Ave. C as it turns right."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97402962112629,
-            40.732711153417085
-          ],
-          "type": "Point"
-        },
-        "id": 55
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on 10th St., cross the pedestrian bridge into East River Park, follow the walkway along the river, exit the park at the Houston St. ramp. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97754216097655,
-            40.72598745614539
-          ],
-          "type": "Point"
-        },
-        "id": 56
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Cross over the FDR Dr., then turn left and walk along the FDR service road."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9746994538473,
-            40.71877120953329
-          ],
-          "type": "Point"
-        },
-        "id": 57
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow the detour under the Williamsburg Bridge: right on Delancey St., left on Lewis St., left on Grand St., right on the FDR service road. Then right on Cherry St. past Corlears Hook Park and left on Jackson St. to South St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97653984346839,
-            40.715391814347385
-          ],
-          "type": "Point"
-        },
-        "id": 58
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow South St. until Clinton St. then cross South St. and walk under the Manhattan Bridge and the Brooklyn Bridge and in front of Pier 17."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.9804973579846,
-            40.711064201306556
-          ],
-          "type": "Point"
-        },
-        "id": 59
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Just past Pier 11, turn right and cross South St. into Old Slip, cross Water St., go left on Pearl St. and continue to the finish at Fraunces Tavern. "
-        },
-        "geometry": {
-          "coordinates": [
-            -74.00734809720575,
-            40.70310679734516
-          ],
-          "type": "Point"
-        },
-        "id": 60
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Snack stop & lunch break 11:30-2 pm"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.92151572552191,
-            40.87055522629822
-          ],
-          "type": "Point"
-        },
-        "id": 61
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Under stairway."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94613060820681,
-            40.84718224679372
-          ],
-          "type": "Point"
-        },
-        "id": 63
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Follow the Greenway under the highway, past Riverbank State Park and into Fort Washington Park."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.96149394791247,
-            40.81851376015558
-          ],
-          "type": "Point"
-        },
-        "id": 64
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Snack stop 9-11:30 am"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.96103425334067,
-            40.819002684054425
-          ],
-          "type": "Point"
-        },
-        "id": 65
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Water stop 1:00-3:30 pm"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93969343107251,
-            40.8297959891743
-          ],
-          "type": "Point"
-        },
-        "id": 74
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Science Center - walk on north side of 125th St. "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.95842892224984,
-            40.816822651651535
-          ],
-          "type": "Point"
-        },
-        "id": 67
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "NE corner of soccer field"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97327739485068,
-            40.800651149906
-          ],
-          "type": "Point"
-        },
-        "id": 68
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "20 Miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94134072558582,
-            40.822655000164985
-          ],
-          "type": "Point"
-        },
-        "id": 68
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Carl Schurz Park"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94515844726928,
-            40.77363437927244
-          ],
-          "type": "Point"
-        },
-        "id": 69
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Go south on John Finley Walk, follow the ramp down at 81st St., exit the walkway on the 78th St. Pedestrian Bridge."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94454538518723,
-            40.77303303732867
-          ],
-          "type": "Point"
-        },
-        "id": 70
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Snack stop 1:30-5:30 pm"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94436558475626,
-            40.7733498363738
-          ],
-          "type": "Point"
-        },
-        "id": 71
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "25 Miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94395849888207,
-            40.77353480752788
-          ],
-          "type": "Point"
-        },
-        "id": 72
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Mileage",
-          "type": "mile-marker",
-          "description": "30 Miles"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97343265017435,
-            40.72423022975178
-          ],
-          "type": "Point"
-        },
-        "id": 73
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Refreshments",
-          "type": "refreshments",
-          "description": "Snack stop 4:30-7:30 pm"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.97356964526797,
-            40.72430216870458
-          ],
-          "type": "Point"
-        },
-        "id": 74
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Pass by the Little Red Lighthouse and under the George Washington Bridge, then up a steep curving hill (watch out for bikes) and past the 181st St. Pedestrian Bridge and Inspiration Point overlook, follow switchback ramp to Dyckman St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94603543503513,
-            40.84980226295801
-          ],
-          "type": "Point"
-        },
-        "id": 76
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on 145th St., down the hill, right on Malcolm X Blvd."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.94299067414798,
-            40.82344918532931
-          ],
-          "type": "Point"
-        },
-        "id": 76
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Go straight at the end of the bridge and walk south with the Harlem River on your left. Enter Carl Schurz Park at 88th St."
-        },
-        "geometry": {
-          "coordinates": [
-            -73.93482372286857,
-            40.79193733933664
-          ],
-          "type": "Point"
-        },
-        "id": 77
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Route",
-          "type": "route-info",
-          "description": "Left on 71st St. to the pedestrian bridge and back to the walkway.  "
-        },
-        "geometry": {
-          "coordinates": [
-            -73.95405104900418,
-            40.76623776787915
-          ],
-          "type": "Point"
-        },
-        "id": 78
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Restrooms",
-          "type": "restrooms",
-          "description": "Before Pier 15"
-        },
-        "geometry": {
-          "coordinates": [
-            -74.00374137981841,
-            40.70555243676691
-          ],
-          "type": "Point"
-        },
-        "id": 79
-      }
-    ]
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop & Late bib pick-up 8-10 am"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00168,
+          40.762044,
+          0
+        ]
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route ",
+        "type": "route-info",
+        "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974359,
+          40.801141,
+          0
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Staten Island Ferry - 2nd floor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0136641,
+          40.7010855,
+          0
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Charles Young playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9361508,
+          40.819672,
+          0
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Athletic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9567334,
+          40.8263262,
+          0
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "NE corner Robert Moses Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9686912,
+          40.7481023,
+          0
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Cultural Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9559662,
+          40.826448,
+          0
+        ]
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "START and FINISH",
+        "type": "start and finish",
+        "description": "START and FINISH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0112392,
+          40.7035115,
+          0
+        ]
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Inwood Hill Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9213821,
+          40.870234,
+          0
+        ]
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9210509,
+          40.8699318,
+          0
+        ]
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "use second staircase on Edgecombe Ave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9412964,
+          40.8259396,
+          0
+        ]
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Women's Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9864748,
+          40.783679,
+          0
+        ]
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Men's Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9868047,
+          40.7832169,
+          0
+        ]
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "behind Pier i cafe",
+        "name ": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9886205,
+          40.779821,
+          0
+        ]
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry, left into Battery Park just past the playground, walk straight out to New York Harbor, turn right, then another right through the East Coast Memorial Plaza, left on the park path and walk in front of Castle Clinton to Battery Place. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0111907,
+          40.7032777,
+          0
+        ]
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9316061,
+          40.8693047,
+          0
+        ]
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Pass under the railroad bridge and then U-turn on to the highway ramp and out to Madison Ave. at 135th St. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9342723,
+          40.8114662,
+          0
+        ]
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Battery Park "
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01585147732442,
+          40.70439795743843
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "1st floor lobby by P.J. Clarke's"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01596299578564,
+          40.71370924793251
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 25"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01273067309441,
+          40.72005379699314
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 45"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0106882987618,
+          40.73290184839365
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 51"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01033886338836,
+          40.73799503058524
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Little Island"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0103677736509,
+          40.73943861555114
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "39th St. ferry terminal"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.00309634549701,
+          40.760598458187644
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 84"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.00062328111116,
+          40.763170013662204
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "The Forum - walk on north side of  125th St. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95866725273002,
+          40.816463039697425
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Parks Dept. building"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93122020229941,
+          40.868647147150654
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "use first staircase on Edegcombe Ave."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9399633170056,
+          40.827941590549244
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Target"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93124959210321,
+          40.79534696621528
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Stanley Issacs Playground restrooms"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94455485982242,
+          40.78291085730595
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "John Jay Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9492773545928,
+          40.76884234257781
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "24 Sycamores Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95887598067291,
+          40.75941189471243
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "St. Vartan Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97321951104756,
+          40.74501181830186
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "East River Park at E. 10th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97283608356781,
+          40.72383942336893
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Women's Restroom"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97402957155356,
+          40.72196542510588
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Men's Restroom"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97409885752126,
+          40.721631605953945
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Corlears Hook Park restrooms"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97979170910793,
+          40.71174333721734
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "5 miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0045869073372,
+          40.7581961851165
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "10 miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96024497463738,
+          40.81986230735342
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "15 Miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9295007689401,
+          40.87399012962615
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on Battery Place, walk along the wooden fence, left on 1st Place, right on the Battery Park City Esplanade along the Hudson River."
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01645990219373,
+          40.704708833213715
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow the Esplanade north past Brookfield Place to Hudson River Park and continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers and the Intrepid. "
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01854973073881,
+          40.70671908512108
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Enter Riverside Park at 59th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.99382721698794,
+          40.77317891611105
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "At the bottom of the hill take a short left past Shorakkopoch Rock, go right directly after the rock, take the next right up the hill behind the dog run to the Great Saunter lunch break."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92365037683253,
+          40.87336094402099
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Bear left and enter the Harlem River Drive Greenway in front of the school. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92279009216834,
+          40.85884196635291
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge and the High Bridge."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92777191857208,
+          40.84814003926303
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow the ramp away from the river, carefully cross the street at the end of the ramp, turn right and go up the hill to 155th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93478738890099,
+          40.835821506334014
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St. or use staircases to reach restrooms in Jackie Robinson Park. then Bradhurst Ave. to 145th St. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94001808429199,
+          40.83046181192586
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 143rd St., right on Fifth Ave. to 142nd St. Cross the pedestrian bridge to Harlem River Park, walk south through the park with the river on your left."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9369364666294,
+          40.8191525146342
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on Madison Ave. to 128th St., left on 128th St. to 2nd Ave. Right on 2nd Ave. then left on 120th St. to Pleasant Ave. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93587273153301,
+          40.812063198145154
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Right on Pleasant Ave, enter Thomas Jefferson Park, follow the park walkway and cross the pedestrian bridge at 112th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93147321805698,
+          40.797639412253346
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on Cherokee Place, right on 76th St., left on York Ave. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94948751464867,
+          40.77003094632698
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow the ramp past the Alice Aycock Pavilion to York Ave., left on York Ave./Sutton Place to 53rd St.."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.957162309505,
+          40.76001642775702
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Right on 53rd St. to left on 1st Ave., pass the United Nations."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96246494390371,
+          40.75495944683678
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "At 20th St., cross Ave. C, turn left and follow Ave. C as it turns right."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97402962112629,
+          40.732711153417085
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 10th St., cross the pedestrian bridge into East River Park, follow the walkway along the river, exit the park at the Houston St. ramp. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97754216097655,
+          40.72598745614539
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross over the FDR Dr., then turn left and walk along the FDR service road."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9746994538473,
+          40.71877120953329
+        ],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow the detour under the Williamsburg Bridge: right on Delancey St., left on Lewis St., left on Grand St., right on the FDR service road. Then right on Cherry St. past Corlears Hook Park and left on Jackson St. to South St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97653984346839,
+          40.715391814347385
+        ],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow South St. until Clinton St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9804973579846,
+          40.711064201306556
+        ],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Just past Pier 11, turn right and cross South St. into Old Slip, cross Water St., go left on Pearl St. and continue to the finish at Fraunces Tavern. "
+      },
+      "geometry": {
+        "coordinates": [
+          -74.00734809720575,
+          40.70310679734516
+        ],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop & lunch break 11:30-2 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92151572552191,
+          40.87055522629822
+        ],
+        "type": "Point"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Under stairway."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94613060820681,
+          40.84718224679372
+        ],
+        "type": "Point"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Follow the Greenway under the highway, past Riverbank State Park and into Fort Washington Park."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96149394791247,
+          40.81851376015558
+        ],
+        "type": "Point"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop 9-11:30 am"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96103425334067,
+          40.819002684054425
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Water stop 1:00-3:30 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93969343107251,
+          40.8297959891743
+        ],
+        "type": "Point"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Science Center - walk on north side of 125th St. "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95842892224984,
+          40.816822651651535
+        ],
+        "type": "Point"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "NE corner of soccer field"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97327739485068,
+          40.800651149906
+        ],
+        "type": "Point"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "20 Miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94134072558582,
+          40.822655000164985
+        ],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Carl Schurz Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94515844726928,
+          40.77363437927244
+        ],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Go south on John Finley Walk, follow the ramp down at 81st St., exit the walkway on the 78th St. Pedestrian Bridge."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94454538518723,
+          40.77303303732867
+        ],
+        "type": "Point"
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop 1:30-5:30 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94436558475626,
+          40.7733498363738
+        ],
+        "type": "Point"
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "25 Miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94395849888207,
+          40.77353480752788
+        ],
+        "type": "Point"
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "30 Miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97343265017435,
+          40.72423022975178
+        ],
+        "type": "Point"
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop 4:30-7:30 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97356964526797,
+          40.72430216870458
+        ],
+        "type": "Point"
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Pass by the Little Red Lighthouse and under the George Washington Bridge, then up a steep curving hill (watch out for bikes) and past the 181st St. Pedestrian Bridge and Inspiration Point overlook, follow switchback ramp to Dyckman St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94603543503513,
+          40.84980226295801
+        ],
+        "type": "Point"
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 145th St., down the hill, right on Malcolm X Blvd."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94299067414798,
+          40.82344918532931
+        ],
+        "type": "Point"
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Go straight at the end of the bridge and walk south with the Harlem River on your left. Enter Carl Schurz Park at 88th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93482372286857,
+          40.79193733933664
+        ],
+        "type": "Point"
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 71st St. to the pedestrian bridge and back to the walkway.  "
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95405104900418,
+          40.76623776787915
+        ],
+        "type": "Point"
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Before Pier 15"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.00374137981841,
+          40.70555243676691
+        ],
+        "type": "Point"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross South St., continue south to Pier 11,  watch for bikes on the shared walkway.                                                     lk under the Manhattan Bridge and the Brooklyn Bridge and in front of Pier 17."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98652625395336,
+          40.710626671812264
+        ],
+        "type": "Point"
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Ten Mile Playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95267587095624,
+          40.82982957906319
+        ],
+        "type": "Point"
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 35th St., carefully cross the service road and go under the FDR to the East River Esplanade then go right."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97278373285918,
+          40.74447185831977
+        ],
+        "type": "Point"
+      },
+      "id": 81
+    }
+  ]
+}
