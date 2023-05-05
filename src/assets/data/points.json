@@ -600,7 +600,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Corlears Hook Park restrooms"
+        "description": "Corlears Hook Park"
       },
       "geometry": {
         "coordinates": [
@@ -1330,6 +1330,22 @@
         "type": "Point"
       },
       "id": 81
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "128th St. & Lexington Ave."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.93535699551659,
+          40.80658458104514
+        ],
+        "type": "Point"
+      },
+      "id": 82
     }
   ]
 }
