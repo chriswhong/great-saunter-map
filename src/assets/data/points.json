@@ -4,36 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Refreshments",
-        "type": "refreshments",
-        "description": "Snack stop & Late bib pick-up 8-10 am"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.00168,
-          40.762044,
-          0
-        ]
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Route ",
         "type": "route-info",
         "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.974359,
           40.801141,
           0
-        ]
-      },
-      "id": 1
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -43,14 +25,13 @@
         "description": "Staten Island Ferry - 2nd floor"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -74.0136641,
           40.7010855,
           0
-        ]
-      },
-      "id": 2
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -60,14 +41,13 @@
         "description": "Charles Young playground"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9361508,
           40.819672,
           0
-        ]
-      },
-      "id": 3
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -77,14 +57,13 @@
         "description": "Athletic Building"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9567334,
           40.8263262,
           0
-        ]
-      },
-      "id": 4
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -94,14 +73,13 @@
         "description": "NE corner Robert Moses Playground"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9686912,
           40.7481023,
           0
-        ]
-      },
-      "id": 5
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -111,14 +89,13 @@
         "description": "Cultural Center"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9559662,
           40.826448,
           0
-        ]
-      },
-      "id": 6
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -128,14 +105,13 @@
         "description": "START and FINISH"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -74.0112392,
           40.7035115,
           0
-        ]
-      },
-      "id": 7
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -145,14 +121,13 @@
         "description": "Inwood Hill Park"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9213821,
           40.870234,
           0
-        ]
-      },
-      "id": 8
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -162,14 +137,13 @@
         "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9210509,
           40.8699318,
           0
-        ]
-      },
-      "id": 9
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -179,14 +153,13 @@
         "description": "use second staircase on Edgecombe Ave."
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9412964,
           40.8259396,
           0
-        ]
-      },
-      "id": 10
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -196,14 +169,13 @@
         "description": "Women's Restroom"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9864748,
           40.783679,
           0
-        ]
-      },
-      "id": 11
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -213,14 +185,13 @@
         "description": "Men's Restroom"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9868047,
           40.7832169,
           0
-        ]
-      },
-      "id": 12
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -231,14 +202,13 @@
         "name ": ""
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9886205,
           40.779821,
           0
-        ]
-      },
-      "id": 13
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -248,14 +218,13 @@
         "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry, left into Battery Park just past the playground, walk straight out to New York Harbor, turn right, then another right through the East Coast Memorial Plaza, left on the park path and walk in front of Castle Clinton to Battery Place. "
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -74.0111907,
           40.7032777,
           0
-        ]
-      },
-      "id": 14
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -265,14 +234,13 @@
         "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill. "
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9316061,
           40.8693047,
           0
-        ]
-      },
-      "id": 15
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -282,14 +250,13 @@
         "description": "Pass under the railroad bridge and then U-turn on to the highway ramp and out to Madison Ave. at 135th St. "
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -73.9342723,
           40.8114662,
           0
-        ]
-      },
-      "id": 16
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -304,8 +271,7 @@
           40.70439795743843
         ],
         "type": "Point"
-      },
-      "id": 17
+      }
     },
     {
       "type": "Feature",
@@ -320,8 +286,7 @@
           40.71370924793251
         ],
         "type": "Point"
-      },
-      "id": 18
+      }
     },
     {
       "type": "Feature",
@@ -336,8 +301,7 @@
           40.72005379699314
         ],
         "type": "Point"
-      },
-      "id": 19
+      }
     },
     {
       "type": "Feature",
@@ -352,8 +316,7 @@
           40.73290184839365
         ],
         "type": "Point"
-      },
-      "id": 20
+      }
     },
     {
       "type": "Feature",
@@ -368,8 +331,7 @@
           40.73799503058524
         ],
         "type": "Point"
-      },
-      "id": 21
+      }
     },
     {
       "type": "Feature",
@@ -384,8 +346,7 @@
           40.73943861555114
         ],
         "type": "Point"
-      },
-      "id": 22
+      }
     },
     {
       "type": "Feature",
@@ -400,8 +361,7 @@
           40.760598458187644
         ],
         "type": "Point"
-      },
-      "id": 23
+      }
     },
     {
       "type": "Feature",
@@ -416,8 +376,7 @@
           40.763170013662204
         ],
         "type": "Point"
-      },
-      "id": 24
+      }
     },
     {
       "type": "Feature",
@@ -432,8 +391,7 @@
           40.816463039697425
         ],
         "type": "Point"
-      },
-      "id": 25
+      }
     },
     {
       "type": "Feature",
@@ -448,8 +406,7 @@
           40.868647147150654
         ],
         "type": "Point"
-      },
-      "id": 26
+      }
     },
     {
       "type": "Feature",
@@ -464,8 +421,7 @@
           40.827941590549244
         ],
         "type": "Point"
-      },
-      "id": 27
+      }
     },
     {
       "type": "Feature",
@@ -480,8 +436,7 @@
           40.79534696621528
         ],
         "type": "Point"
-      },
-      "id": 28
+      }
     },
     {
       "type": "Feature",
@@ -496,8 +451,7 @@
           40.78291085730595
         ],
         "type": "Point"
-      },
-      "id": 29
+      }
     },
     {
       "type": "Feature",
@@ -512,8 +466,7 @@
           40.76884234257781
         ],
         "type": "Point"
-      },
-      "id": 30
+      }
     },
     {
       "type": "Feature",
@@ -528,8 +481,7 @@
           40.75941189471243
         ],
         "type": "Point"
-      },
-      "id": 31
+      }
     },
     {
       "type": "Feature",
@@ -544,8 +496,7 @@
           40.74501181830186
         ],
         "type": "Point"
-      },
-      "id": 32
+      }
     },
     {
       "type": "Feature",
@@ -560,8 +511,7 @@
           40.72383942336893
         ],
         "type": "Point"
-      },
-      "id": 33
+      }
     },
     {
       "type": "Feature",
@@ -576,8 +526,7 @@
           40.72196542510588
         ],
         "type": "Point"
-      },
-      "id": 34
+      }
     },
     {
       "type": "Feature",
@@ -592,8 +541,7 @@
           40.721631605953945
         ],
         "type": "Point"
-      },
-      "id": 35
+      }
     },
     {
       "type": "Feature",
@@ -608,8 +556,7 @@
           40.71174333721734
         ],
         "type": "Point"
-      },
-      "id": 36
+      }
     },
     {
       "type": "Feature",
@@ -624,8 +571,7 @@
           40.7581961851165
         ],
         "type": "Point"
-      },
-      "id": 37
+      }
     },
     {
       "type": "Feature",
@@ -640,8 +586,7 @@
           40.81986230735342
         ],
         "type": "Point"
-      },
-      "id": 38
+      }
     },
     {
       "type": "Feature",
@@ -656,8 +601,7 @@
           40.87399012962615
         ],
         "type": "Point"
-      },
-      "id": 39
+      }
     },
     {
       "type": "Feature",
@@ -672,8 +616,7 @@
           40.704708833213715
         ],
         "type": "Point"
-      },
-      "id": 40
+      }
     },
     {
       "type": "Feature",
@@ -684,12 +627,11 @@
       },
       "geometry": {
         "coordinates": [
-          -74.01854973073881,
-          40.70671908512108
+          -74.01780286047057,
+          40.706885019230356
         ],
         "type": "Point"
-      },
-      "id": 41
+      }
     },
     {
       "type": "Feature",
@@ -704,8 +646,7 @@
           40.77317891611105
         ],
         "type": "Point"
-      },
-      "id": 42
+      }
     },
     {
       "type": "Feature",
@@ -720,8 +661,7 @@
           40.87336094402099
         ],
         "type": "Point"
-      },
-      "id": 43
+      }
     },
     {
       "type": "Feature",
@@ -736,8 +676,7 @@
           40.85884196635291
         ],
         "type": "Point"
-      },
-      "id": 44
+      }
     },
     {
       "type": "Feature",
@@ -752,8 +691,7 @@
           40.84814003926303
         ],
         "type": "Point"
-      },
-      "id": 45
+      }
     },
     {
       "type": "Feature",
@@ -768,8 +706,7 @@
           40.835821506334014
         ],
         "type": "Point"
-      },
-      "id": 46
+      }
     },
     {
       "type": "Feature",
@@ -784,8 +721,7 @@
           40.83046181192586
         ],
         "type": "Point"
-      },
-      "id": 47
+      }
     },
     {
       "type": "Feature",
@@ -800,8 +736,7 @@
           40.8191525146342
         ],
         "type": "Point"
-      },
-      "id": 48
+      }
     },
     {
       "type": "Feature",
@@ -816,8 +751,7 @@
           40.812063198145154
         ],
         "type": "Point"
-      },
-      "id": 49
+      }
     },
     {
       "type": "Feature",
@@ -832,8 +766,7 @@
           40.797639412253346
         ],
         "type": "Point"
-      },
-      "id": 50
+      }
     },
     {
       "type": "Feature",
@@ -848,8 +781,7 @@
           40.77003094632698
         ],
         "type": "Point"
-      },
-      "id": 51
+      }
     },
     {
       "type": "Feature",
@@ -864,8 +796,7 @@
           40.76001642775702
         ],
         "type": "Point"
-      },
-      "id": 52
+      }
     },
     {
       "type": "Feature",
@@ -880,8 +811,7 @@
           40.75495944683678
         ],
         "type": "Point"
-      },
-      "id": 53
+      }
     },
     {
       "type": "Feature",
@@ -896,8 +826,7 @@
           40.732711153417085
         ],
         "type": "Point"
-      },
-      "id": 54
+      }
     },
     {
       "type": "Feature",
@@ -912,8 +841,7 @@
           40.72598745614539
         ],
         "type": "Point"
-      },
-      "id": 55
+      }
     },
     {
       "type": "Feature",
@@ -928,8 +856,7 @@
           40.71877120953329
         ],
         "type": "Point"
-      },
-      "id": 56
+      }
     },
     {
       "type": "Feature",
@@ -944,8 +871,7 @@
           40.715391814347385
         ],
         "type": "Point"
-      },
-      "id": 57
+      }
     },
     {
       "type": "Feature",
@@ -960,8 +886,7 @@
           40.711064201306556
         ],
         "type": "Point"
-      },
-      "id": 58
+      }
     },
     {
       "type": "Feature",
@@ -976,8 +901,7 @@
           40.70310679734516
         ],
         "type": "Point"
-      },
-      "id": 59
+      }
     },
     {
       "type": "Feature",
@@ -992,8 +916,7 @@
           40.87055522629822
         ],
         "type": "Point"
-      },
-      "id": 60
+      }
     },
     {
       "type": "Feature",
@@ -1008,8 +931,7 @@
           40.84718224679372
         ],
         "type": "Point"
-      },
-      "id": 61
+      }
     },
     {
       "type": "Feature",
@@ -1024,8 +946,7 @@
           40.81851376015558
         ],
         "type": "Point"
-      },
-      "id": 62
+      }
     },
     {
       "type": "Feature",
@@ -1040,8 +961,7 @@
           40.819002684054425
         ],
         "type": "Point"
-      },
-      "id": 63
+      }
     },
     {
       "type": "Feature",
@@ -1056,8 +976,7 @@
           40.8297959891743
         ],
         "type": "Point"
-      },
-      "id": 64
+      }
     },
     {
       "type": "Feature",
@@ -1072,8 +991,7 @@
           40.816822651651535
         ],
         "type": "Point"
-      },
-      "id": 65
+      }
     },
     {
       "type": "Feature",
@@ -1088,8 +1006,7 @@
           40.800651149906
         ],
         "type": "Point"
-      },
-      "id": 66
+      }
     },
     {
       "type": "Feature",
@@ -1104,8 +1021,7 @@
           40.822655000164985
         ],
         "type": "Point"
-      },
-      "id": 67
+      }
     },
     {
       "type": "Feature",
@@ -1120,8 +1036,7 @@
           40.77363437927244
         ],
         "type": "Point"
-      },
-      "id": 68
+      }
     },
     {
       "type": "Feature",
@@ -1136,8 +1051,7 @@
           40.77303303732867
         ],
         "type": "Point"
-      },
-      "id": 69
+      }
     },
     {
       "type": "Feature",
@@ -1152,8 +1066,7 @@
           40.7733498363738
         ],
         "type": "Point"
-      },
-      "id": 70
+      }
     },
     {
       "type": "Feature",
@@ -1168,8 +1081,7 @@
           40.77353480752788
         ],
         "type": "Point"
-      },
-      "id": 71
+      }
     },
     {
       "type": "Feature",
@@ -1184,8 +1096,7 @@
           40.72423022975178
         ],
         "type": "Point"
-      },
-      "id": 72
+      }
     },
     {
       "type": "Feature",
@@ -1200,8 +1111,7 @@
           40.72430216870458
         ],
         "type": "Point"
-      },
-      "id": 73
+      }
     },
     {
       "type": "Feature",
@@ -1216,8 +1126,7 @@
           40.84980226295801
         ],
         "type": "Point"
-      },
-      "id": 74
+      }
     },
     {
       "type": "Feature",
@@ -1232,8 +1141,7 @@
           40.82344918532931
         ],
         "type": "Point"
-      },
-      "id": 75
+      }
     },
     {
       "type": "Feature",
@@ -1248,8 +1156,7 @@
           40.79193733933664
         ],
         "type": "Point"
-      },
-      "id": 76
+      }
     },
     {
       "type": "Feature",
@@ -1264,8 +1171,7 @@
           40.76623776787915
         ],
         "type": "Point"
-      },
-      "id": 77
+      }
     },
     {
       "type": "Feature",
@@ -1280,8 +1186,7 @@
           40.70555243676691
         ],
         "type": "Point"
-      },
-      "id": 78
+      }
     },
     {
       "type": "Feature",
@@ -1296,8 +1201,7 @@
           40.710626671812264
         ],
         "type": "Point"
-      },
-      "id": 79
+      }
     },
     {
       "type": "Feature",
@@ -1312,8 +1216,7 @@
           40.82982957906319
         ],
         "type": "Point"
-      },
-      "id": 80
+      }
     },
     {
       "type": "Feature",
@@ -1328,8 +1231,7 @@
           40.74447185831977
         ],
         "type": "Point"
-      },
-      "id": 81
+      }
     },
     {
       "type": "Feature",
@@ -1344,8 +1246,23 @@
           40.80658458104514
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack stop & Late bib pick-up 8-10 am"
       },
-      "id": 82
+      "geometry": {
+        "coordinates": [
+          -74.00168,
+          40.762044,
+          0
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
