@@ -503,51 +503,6 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "East River Park at E. 10th St."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97283608356781,
-          40.72383942336893
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Women's Restroom"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97402957155356,
-          40.72196542510588
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Men's Restroom"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97409885752126,
-          40.721631605953945
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
         "description": "Corlears Hook Park"
       },
       "geometry": {
@@ -848,36 +803,6 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Cross over the FDR Dr., then turn left and walk along the FDR service road."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9746994538473,
-          40.71877120953329
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Follow the detour under the Williamsburg Bridge: right on Delancey St., left on Lewis St., left on Grand St., right on the FDR service road. Then right on Cherry St. past Corlears Hook Park and left on Jackson St. to South St."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97653984346839,
-          40.715391814347385
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
         "description": "Follow South St. until Clinton St."
       },
       "geometry": {
@@ -1079,36 +1004,6 @@
         "coordinates": [
           -73.94395849888207,
           40.77353480752788
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mileage",
-        "type": "mile-marker",
-        "description": "30 Miles"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97343265017435,
-          40.72423022975178
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Refreshments",
-        "type": "refreshments",
-        "description": "Snack stop 4:30-7:30 pm"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97356964526797,
-          40.72430216870458
         ],
         "type": "Point"
       }
