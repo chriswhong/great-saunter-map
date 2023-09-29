@@ -788,7 +788,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on 10th St., cross the pedestrian bridge into East River Park, follow the walkway along the river, exit the park at the Houston St. ramp. "
+        "description": "Left on 10th St., right on Ave. D and follow under the bridge to Grand St. At Grand St. make a left, then right on Jackson St. and follow to South St."
       },
       "geometry": {
         "coordinates": [
