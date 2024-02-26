@@ -1,6 +1,7 @@
 export const routeLineLayer = {
     id: 'route-line',
     type: 'line',
+    slot: 'middle',
     source: 'segments',
     paint: {
         'line-width': [

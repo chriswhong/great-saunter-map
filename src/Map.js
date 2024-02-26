@@ -69,7 +69,6 @@ const Map = ({ setShowModal, isMobile }) => {
 
         const map = mapRef.current = new mapboxgl.Map({
             container: mapContainer.current,
-            style: 'mapbox://styles/mapbox/streets-v12',
             bounds: [
                 [
                     -73.90679447981988,
@@ -129,13 +128,9 @@ const Map = ({ setShowModal, isMobile }) => {
                 type: 'geojson',
                 data: route
             })
+  
 
-            const layers = map.getStyle().layers;
-            const labelLayerId = layers.find(
-                (layer) => layer.type === 'symbol' && layer.layout['text-field']
-            ).id;
-
-            map.addLayer(routeLineLayer, labelLayerId)
+            map.addLayer(routeLineLayer)
 
             const sortedPoints = points.features.sort((a, b) => {
                 if (a.geometry.coordinates[1] > b.geometry.coordinates[1]) {
