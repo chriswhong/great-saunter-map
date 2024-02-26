@@ -4,22 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Route ",
-        "type": "route-info",
-        "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.974359,
-          40.801141,
-          0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Restrooms",
         "type": "restrooms",
         "description": "Staten Island Ferry - 2nd floor"
@@ -28,6 +12,53 @@
         "coordinates": [
           -74.0136641,
           40.7010855,
+          0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry. Continue along State St. past Battery Park (under construction/no exit)"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0111907,
+          40.7032777,
+          0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on Battery Place, walk along the wooden fence, left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
+      },
+      "geometry": {
+        "coordinates": [
+          -74.01437610488438,
+          40.70445329527408
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route ",
+        "type": "route-info",
+        "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.974359,
+          40.801141,
           0
         ],
         "type": "Point"
@@ -215,22 +246,6 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry, left into Battery Park just past the playground, walk straight out to New York Harbor, turn right, then another right through the East Coast Memorial Plaza, left on the park path and walk in front of Castle Clinton to Battery Place. "
-      },
-      "geometry": {
-        "coordinates": [
-          -74.0111907,
-          40.7032777,
-          0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
         "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill. "
       },
       "geometry": {
@@ -254,21 +269,6 @@
           -73.9342723,
           40.8114662,
           0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Battery Park "
-      },
-      "geometry": {
-        "coordinates": [
-          -74.01585147732442,
-          40.70439795743843
         ],
         "type": "Point"
       }
@@ -563,21 +563,6 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on Battery Place, walk along the wooden fence, left on 1st Place, right on the Battery Park City Esplanade along the Hudson River."
-      },
-      "geometry": {
-        "coordinates": [
-          -74.01645990219373,
-          40.704708833213715
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
         "description": "Follow the Esplanade north past Brookfield Place to Hudson River Park and continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers and the Intrepid. "
       },
       "geometry": {
@@ -743,7 +728,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Follow the ramp past the Alice Aycock Pavilion to York Ave., left on York Ave./Sutton Place to 53rd St.."
+        "description": "Follow the esplanade along the new East Midtown Greenway and over the pedestrian bridge."
       },
       "geometry": {
         "coordinates": [
@@ -773,7 +758,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "At 20th St., cross Ave. C, turn left and follow Ave. C as it turns right."
+        "description": "At 20th St., walk along the East River walkway, exit using 10th St. Bridge and follow Avenue D."
       },
       "geometry": {
         "coordinates": [
@@ -788,12 +773,12 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on 10th St., right on Ave. D and follow under the bridge to Grand St. At Grand St. make a left, then right on Jackson St. and follow to South St."
+        "description": "Left on Avenue D and follow under the bridge to Grand St. At Grand St. make a left, then right on Jackson St. and follow to South St."
       },
       "geometry": {
         "coordinates": [
-          -73.97754216097655,
-          40.72598745614539
+          -73.97515041269392,
+          40.72489803403289
         ],
         "type": "Point"
       }
