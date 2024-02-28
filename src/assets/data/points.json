@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross Sutton Place to 54th St., left on 1st Ave., pass the United Nations."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96212789074835,
+          40.7554700860407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Restrooms",
         "type": "restrooms",
         "description": "Staten Island Ferry - 2nd floor"
@@ -734,21 +749,6 @@
         "coordinates": [
           -73.957162309505,
           40.76001642775702
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Right on 53rd St. to left on 1st Ave., pass the United Nations."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.96246494390371,
-          40.75495944683678
         ],
         "type": "Point"
       }
