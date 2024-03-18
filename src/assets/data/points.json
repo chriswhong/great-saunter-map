@@ -788,7 +788,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Follow South St. until Clinton St."
+        "description": "Follow South St. under Manhattan and Brooklyn Bridges to Dover St."
       },
       "geometry": {
         "coordinates": [
@@ -1071,21 +1071,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Cross South St., continue south to Pier 11,  watch for bikes on the shared walkway.                                                     lk under the Manhattan Bridge and the Brooklyn Bridge and in front of Pier 17."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.98652625395336,
-          40.710626671812264
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Restrooms",
         "type": "restrooms",
         "description": "Ten Mile Playground"
@@ -1140,6 +1125,51 @@
           -74.00168,
           40.762044,
           0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack & Drink stop, 4:30 - 7:30 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97535161869634,
+          40.725088277057665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross South St., continue past Pier 17 and Pier 11."
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0001151785584,
+          40.707896552460085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "East River Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97282376917202,
+          40.723857591225
         ],
         "type": "Point"
       }
