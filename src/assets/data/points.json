@@ -148,7 +148,7 @@
       "properties": {
         "name": "START and FINISH",
         "type": "start and finish",
-        "description": "START and FINISH"
+        "description": "START 7-8 am<br/>FINISH 5-10:30 pm "
       },
       "geometry": {
         "coordinates": [
@@ -788,7 +788,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Follow South St. under Manhattan and Brooklyn Bridges to Dover St."
+        "description": "Follow South St. under Manhattan and Brooklyn Bridges to the first traffic light at Dover St."
       },
       "geometry": {
         "coordinates": [
@@ -818,7 +818,7 @@
       "properties": {
         "name": "Refreshments",
         "type": "refreshments",
-        "description": "Snack stop & lunch break 11:30-2 pm"
+        "description": "Lunch break: Snacks/drinks 11:30 am-2 pm"
       },
       "geometry": {
         "coordinates": [
@@ -878,7 +878,7 @@
       "properties": {
         "name": "Refreshments",
         "type": "refreshments",
-        "description": "Water stop 1:00-3:30 pm"
+        "description": "Hydration Station 1-3:30 pm"
       },
       "geometry": {
         "coordinates": [
@@ -1118,7 +1118,7 @@
       "properties": {
         "name": "Refreshments",
         "type": "refreshments",
-        "description": "Snack stop & Late bib pick-up 8-10 am"
+        "description": "Snack stop 8-10 am"
       },
       "geometry": {
         "coordinates": [
@@ -1149,7 +1149,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Cross South St., continue past Pier 17 and Pier 11."
+        "description": "At traffic light, cross South St. and continue past Pier 17 and Pier 11."
       },
       "geometry": {
         "coordinates": [
