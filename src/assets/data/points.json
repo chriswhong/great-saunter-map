@@ -357,8 +357,8 @@
       },
       "geometry": {
         "coordinates": [
-          -74.0103677736509,
-          40.73943861555114
+          -74.01066846377645,
+          40.74169792994178
         ],
         "type": "Point"
       }
@@ -443,7 +443,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Target"
+        "description": "Marshalls"
       },
       "geometry": {
         "coordinates": [
@@ -608,7 +608,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "At the bottom of the hill take a short left past Shorakkopoch Rock, go right directly after the rock, take the next right up the hill behind the dog run to the Great Saunter lunch break."
+        "description": "At the bottom of the hill, pass Shorakkopoch Rock and stay on the path, then take the first right to the Great Saunter lunch break."
       },
       "geometry": {
         "coordinates": [
@@ -788,7 +788,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Follow South St. under Manhattan and Brooklyn Bridges to the first traffic light at Dover St."
+        "description": "Follow South St. under Manhattan and Brooklyn Bridges to the traffic light at Dover St."
       },
       "geometry": {
         "coordinates": [
@@ -1058,12 +1058,12 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Before Pier 15"
+        "description": "Pier 17 - 4th Floor"
       },
       "geometry": {
         "coordinates": [
-          -74.00374137981841,
-          40.70555243676691
+          -74.00156876990974,
+          40.70554498973479
         ],
         "type": "Point"
       }
@@ -1170,6 +1170,21 @@
         "coordinates": [
           -73.97282376917202,
           40.723857591225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Luther Gulick Playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98184644110074,
+          40.71586719492174
         ],
         "type": "Point"
       }
