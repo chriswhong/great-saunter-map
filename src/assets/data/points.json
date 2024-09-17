@@ -53,7 +53,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on Battery Place, walk along the wooden fence, left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
+        "description": "Left on Battery Place, walk on opposite side after West St., left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
       },
       "geometry": {
         "coordinates": [
@@ -196,7 +196,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "use second staircase on Edgecombe Ave."
+        "description": "Restrooms"
       },
       "geometry": {
         "coordinates": [
@@ -428,7 +428,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "use first staircase on Edegcombe Ave."
+        "description": "Use first staircase on Edgecombe Ave., then exit park right on Bradhurst Ave. to 145th St."
       },
       "geometry": {
         "coordinates": [
@@ -758,7 +758,7 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "At 20th St., walk along the East River walkway, exit using 10th St. Bridge and follow Avenue D."
+        "description": "At 20th St., walk along the East River walkway past the ballfields until Houston St."
       },
       "geometry": {
         "coordinates": [
@@ -773,27 +773,12 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on Avenue D and follow under the bridge to Grand St. At Grand St. make a left, then right on Jackson St. and follow to South St."
+        "description": "Exit park behind restrooms and cross pedestrian bridge to new Pier 42 Park. Right and follow path to park exit."
       },
       "geometry": {
         "coordinates": [
-          -73.97515041269392,
-          40.72489803403289
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Follow South St. under Manhattan and Brooklyn Bridges to the traffic light at Dover St."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9804973579846,
-          40.711064201306556
+          -73.97947624711794,
+          40.711323733298485
         ],
         "type": "Point"
       }
@@ -1132,21 +1117,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Refreshments",
-        "type": "refreshments",
-        "description": "Snack & Drink stop, 4:30 - 7:30 pm"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97535161869634,
-          40.725088277057665
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Route",
         "type": "route-info",
         "description": "At traffic light, cross South St. and continue past Pier 17 and Pier 11."
@@ -1179,12 +1149,72 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Luther Gulick Playground"
+        "description": "Gansevoort Peninsula pavillion"
       },
       "geometry": {
         "coordinates": [
-          -73.98184644110074,
-          40.71586719492174
+          -74.01013091108058,
+          40.74021494964987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross highway, right on Cherry St., left into Corlears Hook Park."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97465341847212,
+          40.718735268559556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 42 Upland Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98250089397702,
+          40.71014520776339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Pier 42 Upland Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98250089397702,
+          40.71014520776339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98430158995924,
+          40.71024826189313
         ],
         "type": "Point"
       }

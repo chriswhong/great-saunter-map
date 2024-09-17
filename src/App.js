@@ -10,6 +10,8 @@ import Map from './Map'
 import logo from './assets/img/logo.svg'
 import useLocalStorage from "./util/use-localstorage";
 
+import '@fortawesome/fontawesome-free/css/all.css'
+
 function App() {
 
   const [showModal, setShowModal] = useState(false)
