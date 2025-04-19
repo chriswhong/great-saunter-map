@@ -10,7 +10,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.96212789074835,
+          -73.962127890748349,
           40.7554700860407
         ],
         "type": "Point"
@@ -30,7 +30,8 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
@@ -46,29 +47,31 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on Battery Place, walk on opposite side after West St., left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
+        "description": "Left on Battery Place, left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
       },
       "geometry": {
         "coordinates": [
-          -74.01437610488438,
-          40.70445329527408
+          -74.014376104884377,
+          40.704453295274078
         ],
         "type": "Point"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Route ",
         "type": "route-info",
-        "description": "Caution: at 101st St. walk on the left side of the walkway. and watch out for bikes."
+        "description": "Caution: at 101st St. walk on the left side of the walkway, and watch out for bikes."
       },
       "geometry": {
         "coordinates": [
@@ -77,7 +80,8 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
@@ -90,22 +94,6 @@
         "coordinates": [
           -73.9361508,
           40.819672,
-          0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Athletic Building"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9567334,
-          40.8263262,
           0
         ],
         "type": "Point"
@@ -130,25 +118,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Cultural Center"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9559662,
-          40.826448,
-          0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "START and FINISH",
         "type": "start and finish",
-        "description": "START 7-8 am<br/>FINISH 5-10:30 pm "
+        "description": "START 7-8 am<br/>FINISH 5-10:00 pm "
       },
       "geometry": {
         "coordinates": [
@@ -157,7 +129,8 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
@@ -173,7 +146,8 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -189,14 +163,15 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Restrooms"
+        "description": "Descend second staircase on Edgecombe Ave. and go left. Then exit park, go right on Bradhurst Ave. to 145th St."
       },
       "geometry": {
         "coordinates": [
@@ -205,7 +180,8 @@
           0
         ],
         "type": "Point"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -275,30 +251,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Pass under the railroad bridge and then U-turn on to the highway ramp and out to Madison Ave. at 135th St. "
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9342723,
-          40.8114662,
-          0
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Restrooms",
         "type": "restrooms",
         "description": "1st floor lobby by P.J. Clarke's"
       },
       "geometry": {
         "coordinates": [
-          -74.01596299578564,
-          40.71370924793251
+          -74.015962995785642,
+          40.713709247932513
         ],
         "type": "Point"
       }
@@ -313,7 +273,7 @@
       "geometry": {
         "coordinates": [
           -74.01273067309441,
-          40.72005379699314
+          40.720053796993142
         ],
         "type": "Point"
       }
@@ -328,7 +288,7 @@
       "geometry": {
         "coordinates": [
           -74.0106882987618,
-          40.73290184839365
+          40.732901848393652
         ],
         "type": "Point"
       }
@@ -342,8 +302,8 @@
       },
       "geometry": {
         "coordinates": [
-          -74.01033886338836,
-          40.73799503058524
+          -74.010338863388355,
+          40.737995030585239
         ],
         "type": "Point"
       }
@@ -357,8 +317,8 @@
       },
       "geometry": {
         "coordinates": [
-          -74.01066846377645,
-          40.74169792994178
+          -74.010668463776454,
+          40.741697929941779
         ],
         "type": "Point"
       }
@@ -372,7 +332,7 @@
       },
       "geometry": {
         "coordinates": [
-          -74.00309634549701,
+          -74.003096345497013,
           40.760598458187644
         ],
         "type": "Point"
@@ -402,7 +362,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.95866725273002,
+          -73.958667252730024,
           40.816463039697425
         ],
         "type": "Point"
@@ -417,7 +377,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93122020229941,
+          -73.931220202299414,
           40.868647147150654
         ],
         "type": "Point"
@@ -428,7 +388,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Use first staircase on Edgecombe Ave., then exit park right on Bradhurst Ave. to 145th St."
+        "description": "Access via first staircase on Edgecombe Ave. Then exit park, go right on Bradhurst Ave. to 145th St."
       },
       "geometry": {
         "coordinates": [
@@ -436,7 +396,8 @@
           40.827941590549244
         ],
         "type": "Point"
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -447,8 +408,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93124959210321,
-          40.79534696621528
+          -73.931249592103214,
+          40.795346966215277
         ],
         "type": "Point"
       }
@@ -462,7 +423,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94455485982242,
+          -73.944554859822418,
           40.78291085730595
         ],
         "type": "Point"
@@ -478,7 +439,7 @@
       "geometry": {
         "coordinates": [
           -73.9492773545928,
-          40.76884234257781
+          40.768842342577813
         ],
         "type": "Point"
       }
@@ -492,8 +453,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.95887598067291,
-          40.75941189471243
+          -73.958875980672914,
+          40.759411894712429
         ],
         "type": "Point"
       }
@@ -508,7 +469,7 @@
       "geometry": {
         "coordinates": [
           -73.97321951104756,
-          40.74501181830186
+          40.745011818301862
         ],
         "type": "Point"
       }
@@ -522,8 +483,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97979170910793,
-          40.71174333721734
+          -73.979791709107928,
+          40.711743337217342
         ],
         "type": "Point"
       }
@@ -552,8 +513,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.96024497463738,
-          40.81986230735342
+          -73.960244974637376,
+          40.819862307353418
         ],
         "type": "Point"
       }
@@ -568,7 +529,7 @@
       "geometry": {
         "coordinates": [
           -73.9295007689401,
-          40.87399012962615
+          40.873990129626151
         ],
         "type": "Point"
       }
@@ -582,7 +543,7 @@
       },
       "geometry": {
         "coordinates": [
-          -74.01780286047057,
+          -74.017802860470567,
           40.706885019230356
         ],
         "type": "Point"
@@ -597,7 +558,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.99382721698794,
+          -73.993827216987938,
           40.77317891611105
         ],
         "type": "Point"
@@ -612,8 +573,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.92365037683253,
-          40.87336094402099
+          -73.923650376832526,
+          40.873360944020988
         ],
         "type": "Point"
       }
@@ -627,8 +588,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.92279009216834,
-          40.85884196635291
+          -73.922790092168341,
+          40.858841966352912
         ],
         "type": "Point"
       }
@@ -638,15 +599,16 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge and the High Bridge."
+        "description": "Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge, and the High Bridge."
       },
       "geometry": {
         "coordinates": [
-          -73.92777191857208,
-          40.84814003926303
+          -73.927771918572077,
+          40.848140039263029
         ],
         "type": "Point"
-      }
+      },
+      "id": 39
     },
     {
       "type": "Feature",
@@ -657,7 +619,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93478738890099,
+          -73.934787388900986,
           40.835821506334014
         ],
         "type": "Point"
@@ -668,22 +630,23 @@
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St. or use staircases to reach restrooms in Jackie Robinson Park. then Bradhurst Ave. to 145th St. "
+        "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St."
       },
       "geometry": {
         "coordinates": [
-          -73.94001808429199,
-          40.83046181192586
+          -73.940018084291992,
+          40.830461811925858
         ],
         "type": "Point"
-      }
+      },
+      "id": 41
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Left on 143rd St., right on Fifth Ave. to 142nd St. Cross the pedestrian bridge to Harlem River Park, walk south through the park with the river on your left."
+        "description": "Left on 143rd St., right on Fifth Ave. to 128th St."
       },
       "geometry": {
         "coordinates": [
@@ -691,22 +654,8 @@
           40.8191525146342
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Left on Madison Ave. to 128th St., left on 128th St. to 2nd Ave. Right on 2nd Ave. then left on 120th St. to Pleasant Ave. "
       },
-      "geometry": {
-        "coordinates": [
-          -73.93587273153301,
-          40.812063198145154
-        ],
-        "type": "Point"
-      }
+      "id": 42
     },
     {
       "type": "Feature",
@@ -717,7 +666,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93147321805698,
+          -73.931473218056979,
           40.797639412253346
         ],
         "type": "Point"
@@ -732,8 +681,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94948751464867,
-          40.77003094632698
+          -73.949487514648666,
+          40.770030946326983
         ],
         "type": "Point"
       }
@@ -748,7 +697,7 @@
       "geometry": {
         "coordinates": [
           -73.957162309505,
-          40.76001642775702
+          40.760016427757023
         ],
         "type": "Point"
       }
@@ -762,8 +711,24 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97402962112629,
+          -73.974029621126292,
           40.732711153417085
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refreshments",
+        "type": "refreshments",
+        "description": "Snack & drink stop 4-7:30 pm"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97360099490967,
+          40.73168529749114
         ],
         "type": "Point"
       }
@@ -777,7 +742,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97947624711794,
+          -73.979476247117944,
           40.711323733298485
         ],
         "type": "Point"
@@ -793,7 +758,7 @@
       "geometry": {
         "coordinates": [
           -74.00734809720575,
-          40.70310679734516
+          40.703106797345157
         ],
         "type": "Point"
       }
@@ -803,15 +768,16 @@
       "properties": {
         "name": "Refreshments",
         "type": "refreshments",
-        "description": "Lunch break: Snacks/drinks 11:30 am-2 pm"
+        "description": "Lunch break: Snacks/drinks 11:00 am-2 pm"
       },
       "geometry": {
         "coordinates": [
-          -73.92151572552191,
-          40.87055522629822
+          -73.921515725521914,
+          40.870555226298222
         ],
         "type": "Point"
-      }
+      },
+      "id": 50
     },
     {
       "type": "Feature",
@@ -822,8 +788,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94613060820681,
-          40.84718224679372
+          -73.946130608206815,
+          40.847182246793722
         ],
         "type": "Point"
       }
@@ -837,8 +803,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.96149394791247,
-          40.81851376015558
+          -73.961493947912473,
+          40.818513760155582
         ],
         "type": "Point"
       }
@@ -852,7 +818,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.96103425334067,
+          -73.961034253340671,
           40.819002684054425
         ],
         "type": "Point"
@@ -867,23 +833,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93969343107251,
+          -73.939693431072513,
           40.8297959891743
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "Science Center - walk on north side of 125th St. "
-      },
-      "geometry": {
-        "coordinates": [
-          -73.95842892224984,
-          40.816822651651535
         ],
         "type": "Point"
       }
@@ -897,11 +848,12 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97327739485068,
+          -73.973277394850683,
           40.800651149906
         ],
         "type": "Point"
-      }
+      },
+      "id": 58
     },
     {
       "type": "Feature",
@@ -912,7 +864,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94134072558582,
+          -73.941340725585817,
           40.822655000164985
         ],
         "type": "Point"
@@ -927,8 +879,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94515844726928,
-          40.77363437927244
+          -73.945158447269279,
+          40.773634379272437
         ],
         "type": "Point"
       }
@@ -942,8 +894,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94454538518723,
-          40.77303303732867
+          -73.944545385187226,
+          40.773033037328673
         ],
         "type": "Point"
       }
@@ -953,15 +905,16 @@
       "properties": {
         "name": "Refreshments",
         "type": "refreshments",
-        "description": "Snack stop 1:30-5:30 pm"
+        "description": "Snack stop 1:00-5:30 pm"
       },
       "geometry": {
         "coordinates": [
-          -73.94436558475626,
+          -73.944365584756255,
           40.7733498363738
         ],
         "type": "Point"
-      }
+      },
+      "id": 57
     },
     {
       "type": "Feature",
@@ -972,8 +925,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94395849888207,
-          40.77353480752788
+          -73.943958498882068,
+          40.773534807527881
         ],
         "type": "Point"
       }
@@ -987,8 +940,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94603543503513,
-          40.84980226295801
+          -73.946035435035128,
+          40.849802262958008
         ],
         "type": "Point"
       }
@@ -1002,8 +955,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.94299067414798,
-          40.82344918532931
+          -73.942990674147978,
+          40.823449185329309
         ],
         "type": "Point"
       }
@@ -1017,8 +970,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93482372286857,
-          40.79193733933664
+          -73.934823722868572,
+          40.791937339336641
         ],
         "type": "Point"
       }
@@ -1032,8 +985,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.95405104900418,
-          40.76623776787915
+          -73.954051049004178,
+          40.766237767879147
         ],
         "type": "Point"
       }
@@ -1047,7 +1000,7 @@
       },
       "geometry": {
         "coordinates": [
-          -74.00156876990974,
+          -74.001568769909738,
           40.70554498973479
         ],
         "type": "Point"
@@ -1062,8 +1015,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.95267587095624,
-          40.82982957906319
+          -73.952675870956242,
+          40.829829579063187
         ],
         "type": "Point"
       }
@@ -1077,7 +1030,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97278373285918,
+          -73.972783732859185,
           40.74447185831977
         ],
         "type": "Point"
@@ -1092,8 +1045,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.93535699551659,
-          40.80658458104514
+          -73.935356995516585,
+          40.806584581045144
         ],
         "type": "Point"
       }
@@ -1138,7 +1091,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97282376917202,
+          -73.972823769172024,
           40.723857591225
         ],
         "type": "Point"
@@ -1154,22 +1107,7 @@
       "geometry": {
         "coordinates": [
           -74.01013091108058,
-          40.74021494964987
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Route",
-        "type": "route-info",
-        "description": "Cross highway, right on Cherry St., left into Corlears Hook Park."
-      },
-      "geometry": {
-        "coordinates": [
-          -73.97465341847212,
-          40.718735268559556
+          40.740214949649868
         ],
         "type": "Point"
       }
@@ -1183,8 +1121,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.98250089397702,
-          40.71014520776339
+          -73.982500893977019,
+          40.710145207763389
         ],
         "type": "Point"
       }
@@ -1198,8 +1136,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.98250089397702,
-          40.71014520776339
+          -73.982500893977019,
+          40.710145207763389
         ],
         "type": "Point"
       }
@@ -1213,11 +1151,75 @@
       },
       "geometry": {
         "coordinates": [
-          -73.98430158995924,
-          40.71024826189313
+          -73.984301589959244,
+          40.710248261893128
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Fraunces Tavern"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.011192306830949,
+          40.703410218576863
+        ],
+        "type": "Point"
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Marina restrooms"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.932028060089138,
+          40.868409424570189
+        ],
+        "type": "Point"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Left on 128th St. to 2nd Ave. Right on 2nd Ave., then left on 120th St. to Pleasant Ave."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.940835195406663,
+          40.808468470584643
+        ],
+        "type": "Point"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Cross FDR on north side of Houston, cross Houston at Baruch Pl., left back to FDR, then right at corner to Cherry St. Right on Cherry St., left into Corlears Hook Park."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.974678257904586,
+          40.718938536011478
+        ],
+        "type": "Point"
+      },
+      "id": 78
     }
   ]
 }
