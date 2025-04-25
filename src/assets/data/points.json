@@ -934,6 +934,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mileage",
+        "type": "mile-marker",
+        "description": "30 Miles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97228,
+          40.72386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Route",
         "type": "route-info",
         "description": "Pass by the Little Red Lighthouse and under the George Washington Bridge, then up a steep curving hill (watch out for bikes) and past the 181st St. Pedestrian Bridge and Inspiration Point overlook, follow switchback ramp to Dyckman St."
