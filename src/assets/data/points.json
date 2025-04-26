@@ -1235,6 +1235,36 @@
         "type": "Point"
       },
       "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "Anne Loftus Playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92949661818355,
+          40.86511910985013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restrooms",
+        "type": "restrooms",
+        "description": "The Bonnefont"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9327589582603,
+          40.860766968879915
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
