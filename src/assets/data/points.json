@@ -381,7 +381,8 @@
           40.868647147150654
         ],
         "type": "Point"
-      }
+      },
+      "id": 23
     },
     {
       "type": "Feature",
@@ -397,7 +398,7 @@
         ],
         "type": "Point"
       },
-      "id": 25
+      "id": 24
     },
     {
       "type": "Feature",
@@ -419,7 +420,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Stanley Issacs Playground restrooms"
+        "description": "Stanley Issacs Playground"
       },
       "geometry": {
         "coordinates": [
@@ -427,7 +428,8 @@
           40.78291085730595
         ],
         "type": "Point"
-      }
+      },
+      "id": 26
     },
     {
       "type": "Feature",
@@ -532,7 +534,8 @@
           40.873990129626151
         ],
         "type": "Point"
-      }
+      },
+      "id": 33
     },
     {
       "type": "Feature",
@@ -577,7 +580,8 @@
           40.873360944020988
         ],
         "type": "Point"
-      }
+      },
+      "id": 36
     },
     {
       "type": "Feature",
@@ -608,7 +612,7 @@
         ],
         "type": "Point"
       },
-      "id": 39
+      "id": 38
     },
     {
       "type": "Feature",
@@ -670,7 +674,8 @@
           40.797639412253346
         ],
         "type": "Point"
-      }
+      },
+      "id": 42
     },
     {
       "type": "Feature",
@@ -727,7 +732,7 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97360099490967,
+          -73.973600994909674,
           40.73168529749114
         ],
         "type": "Point"
@@ -777,7 +782,7 @@
         ],
         "type": "Point"
       },
-      "id": 50
+      "id": 49
     },
     {
       "type": "Feature",
@@ -864,8 +869,8 @@
       },
       "geometry": {
         "coordinates": [
-          -73.941340725585817,
-          40.822655000164985
+          -73.943442467130978,
+          40.823623280227082
         ],
         "type": "Point"
       }
@@ -883,7 +888,8 @@
           40.773634379272437
         ],
         "type": "Point"
-      }
+      },
+      "id": 56
     },
     {
       "type": "Feature",
@@ -898,7 +904,8 @@
           40.773033037328673
         ],
         "type": "Point"
-      }
+      },
+      "id": 57
     },
     {
       "type": "Feature",
@@ -914,7 +921,7 @@
         ],
         "type": "Point"
       },
-      "id": 57
+      "id": 58
     },
     {
       "type": "Feature",
@@ -929,7 +936,8 @@
           40.773534807527881
         ],
         "type": "Point"
-      }
+      },
+      "id": 59
     },
     {
       "type": "Feature",
@@ -940,18 +948,19 @@
       },
       "geometry": {
         "coordinates": [
-          -73.97228,
-          40.72386
+          -73.97529451706032,
+          40.71872812829568
         ],
         "type": "Point"
-      }
+      },
+      "id": 60
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Route",
         "type": "route-info",
-        "description": "Pass by the Little Red Lighthouse and under the George Washington Bridge, then up a steep curving hill (watch out for bikes) and past the 181st St. Pedestrian Bridge and Inspiration Point overlook, follow switchback ramp to Dyckman St."
+        "description": "Pass Little Red Lighthouse and below George Washington Bridge, then up steep hill (watch out for bikes). Cross highway via pedestrian bridge. Go right on Riverside Dr., left on 181st St., left on Cabrini Blvd., and continue to Ft. Tryon Park."
       },
       "geometry": {
         "coordinates": [
@@ -959,7 +968,8 @@
           40.849802262958008
         ],
         "type": "Point"
-      }
+      },
+      "id": 61
     },
     {
       "type": "Feature",
@@ -970,11 +980,12 @@
       },
       "geometry": {
         "coordinates": [
-          -73.942990674147978,
-          40.823449185329309
+          -73.943702968453366,
+          40.823733692318854
         ],
         "type": "Point"
-      }
+      },
+      "id": 62
     },
     {
       "type": "Feature",
@@ -1064,7 +1075,8 @@
           40.806584581045144
         ],
         "type": "Point"
-      }
+      },
+      "id": 68
     },
     {
       "type": "Feature",
@@ -1093,21 +1105,6 @@
         "coordinates": [
           -74.0001151785584,
           40.707896552460085
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Restrooms",
-        "type": "restrooms",
-        "description": "East River Park"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.972823769172024,
-          40.723857591225
         ],
         "type": "Point"
       }
@@ -1193,7 +1190,7 @@
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "Marina restrooms"
+        "description": "Marina"
       },
       "geometry": {
         "coordinates": [
@@ -1202,7 +1199,7 @@
         ],
         "type": "Point"
       },
-      "id": 78
+      "id": 76
     },
     {
       "type": "Feature",
@@ -1245,18 +1242,19 @@
       },
       "geometry": {
         "coordinates": [
-          -73.92949661818355,
-          40.86511910985013
+          -73.929496618183549,
+          40.865119109850127
         ],
         "type": "Point"
-      }
+      },
+      "id": 79
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Restrooms",
         "type": "restrooms",
-        "description": "The Bonnefont"
+        "description": "Lower Level"
       },
       "geometry": {
         "coordinates": [
@@ -1264,7 +1262,24 @@
           40.860766968879915
         ],
         "type": "Point"
-      }
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route",
+        "type": "route-info",
+        "description": "Inside park gate take path on left. Follow low stone wall, stay left at all forks. At bottom of hill, go left to exit park. Take Payson Ave. to Dyckman St. Make left on Dyckman to Inwood Hill Park."
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9339786890333,
+          40.859642668080767
+        ],
+        "type": "Point"
+      },
+      "id": 81
     }
   ]
 }
