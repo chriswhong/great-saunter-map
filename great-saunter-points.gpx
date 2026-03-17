@@ -19,16 +19,6 @@
     <desc><![CDATA[Exit Stuyvesant Cove Park. Carefully cross FDR access road and continue south along Avenue C.]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.71976" lon="-73.978724">
-    <name><![CDATA[Route]]></name>
-    <desc><![CDATA[Left at East Houston St. to Baruch Drive.]]></desc>
-    <type>route-info</type>
-  </wpt>
-  <wpt lat="40.72665" lon="-73.973744">
-    <name><![CDATA[Route]]></name>
-    <desc><![CDATA[Right at Avenue D to East Houston St.]]></desc>
-    <type>route-info</type>
-  </wpt>
   <wpt lat="40.71407" lon="-73.976529">
     <name><![CDATA[Route]]></name>
     <desc><![CDATA[Navigate to path adjacent to river. Continue south to Pier 42 park.]]></desc>
@@ -389,19 +379,9 @@
     <desc><![CDATA[Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St.]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.71919" lon="-73.977358">
+  <wpt lat="40.720833" lon="-73.9811936">
     <name><![CDATA[Route]]></name>
-    <desc><![CDATA[Right at Baruch Drive to Delancey St.]]></desc>
-    <type>route-info</type>
-  </wpt>
-  <wpt lat="40.727654" lon="-73.97611">
-    <name><![CDATA[Route]]></name>
-    <desc><![CDATA[Left on 13th St to Avenue D.]]></desc>
-    <type>route-info</type>
-  </wpt>
-  <wpt lat="40.715782" lon="-73.977939">
-    <name><![CDATA[Route]]></name>
-    <desc><![CDATA[Cross Delancey St. below Williamsburg Bridge to East River Park pedestrian access bridge.]]></desc>
+    <desc><![CDATA[Left on E. Houston St to Avenue D.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.819134" lon="-73.936952">
@@ -412,6 +392,16 @@
   <wpt lat="40.804675" lon="-73.932276">
     <name><![CDATA[Route]]></name>
     <desc><![CDATA[Right on 2nd Ave., left on 120th St. to Pleasant Ave. ]]></desc>
+    <type>route-info</type>
+  </wpt>
+  <wpt lat="40.7159335" lon="-73.9816072">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Luther Gulick Playground]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.7158545" lon="-73.9808442">
+    <name><![CDATA[Route]]></name>
+    <desc><![CDATA[Left on Delancey St. after crossing under the Williamsburg Bridge.]]></desc>
     <type>route-info</type>
   </wpt>
 </gpx>
