@@ -7,14 +7,21 @@
   <trk>
     <name>Great Saunter Route</name>
     <trkseg>
-      <trkpt lat="40.70344" lon="-74.011514"></trkpt>
-      <trkpt lat="40.70329" lon="-74.011494"></trkpt>
-      <trkpt lat="40.70309" lon="-74.011474"></trkpt>
-      <trkpt lat="40.70288" lon="-74.011404"></trkpt>
-      <trkpt lat="40.7026" lon="-74.012264"></trkpt>
-      <trkpt lat="40.70233" lon="-74.012904"></trkpt>
-      <trkpt lat="40.70228" lon="-74.012984"></trkpt>
-      <trkpt lat="40.70231" lon="-74.013104"></trkpt>
+      <trkpt lat="40.7023217" lon="-74.0095648"></trkpt>
+      <trkpt lat="40.7020553" lon="-74.0102753"></trkpt>
+      <trkpt lat="40.7018609" lon="-74.0109889"></trkpt>
+      <trkpt lat="40.7016738" lon="-74.0118589"></trkpt>
+      <trkpt lat="40.7015354" lon="-74.0126767"></trkpt>
+      <trkpt lat="40.7014793" lon="-74.0127803"></trkpt>
+      <trkpt lat="40.7015298" lon="-74.0133648"></trkpt>
+      <trkpt lat="40.7015971" lon="-74.0134092"></trkpt>
+      <trkpt lat="40.7017149" lon="-74.0132834"></trkpt>
+      <trkpt lat="40.7018103" lon="-74.0132686"></trkpt>
+      <trkpt lat="40.7020346" lon="-74.0135572"></trkpt>
+      <trkpt lat="40.7020907" lon="-74.013646"></trkpt>
+      <trkpt lat="40.70213" lon="-74.0137052"></trkpt>
+      <trkpt lat="40.7021655" lon="-74.0137308"></trkpt>
+      <trkpt lat="40.7022815" lon="-74.01372"></trkpt>
       <trkpt lat="40.702277" lon="-74.013911"></trkpt>
       <trkpt lat="40.702283" lon="-74.013943"></trkpt>
       <trkpt lat="40.702297" lon="-74.013971"></trkpt>
@@ -1219,7 +1226,7 @@
       <trkpt lat="40.704095" lon="-74.010054"></trkpt>
       <trkpt lat="40.70367" lon="-74.010694"></trkpt>
       <trkpt lat="40.70359" lon="-74.010884"></trkpt>
-      <trkpt lat="40.70344" lon="-74.011514"></trkpt>
+      <trkpt lat="40.7034513" lon="-74.0114618"></trkpt>
     </trkseg>
   </trk>
 </gpx>
