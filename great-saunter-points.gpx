@@ -11,7 +11,7 @@
   </wpt>
   <wpt lat="40.731685" lon="-73.973601">
     <name><![CDATA[Refreshments]]></name>
-    <desc><![CDATA[Snack & drink stop 4-7:30 pm]]></desc>
+    <desc><![CDATA[Snack stop 4-7:30 pm]]></desc>
     <type>refreshments</type>
   </wpt>
   <wpt lat="40.731274" lon="-73.973534">
@@ -56,15 +56,15 @@
   </wpt>
   <wpt lat="40.701086" lon="-74.013664">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Staten Island Ferry - 2nd floor]]></desc>
+    <desc><![CDATA[SI Ferry Terminal - 2nd floor]]></desc>
     <type>restrooms</type>
   </wpt>
-  <wpt lat="40.7034513" lon="-74.0114618">
+  <wpt lat="40.703451" lon="-74.011462">
     <name><![CDATA[Mile Marker]]></name>
     <desc><![CDATA[Mile 32.45. Finish the Great Saunter at Fraunces Tavern at Pearl and Broad Streets.]]></desc>
     <type>mile-marker</type>
   </wpt>
-  <wpt lat="40.7023217" lon="-74.0095648">
+  <wpt lat="40.702322" lon="-74.009565">
     <name><![CDATA[Mile Marker]]></name>
     <desc><![CDATA[0 miles. Start the Great Saunter on South St. at the southern end of the plaza adjacent to 55 Water Street]]></desc>
     <type>mile-marker</type>
@@ -96,7 +96,7 @@
   </wpt>
   <wpt lat="40.869305" lon="-73.931606">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill.]]></desc>
+    <desc><![CDATA[Cross Dyckman St. and enter Inwood Hill Park. Walk alongside the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.868647" lon="-73.93122">
@@ -111,7 +111,7 @@
   </wpt>
   <wpt lat="40.795347" lon="-73.93125">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Marshalls]]></desc>
+    <desc><![CDATA[Marshalls - East River Plaza 4th Fl]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.782911" lon="-73.944555">
@@ -131,7 +131,7 @@
   </wpt>
   <wpt lat="40.873361" lon="-73.92365">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[At the bottom of the hill, pass Shorakkopoch Rock and stay on the path, then take the first right to the Great Saunter lunch break.]]></desc>
+    <desc><![CDATA[At the bottom of the hill, pass Shorakkopoch Rock and stay on the path, then take the first right to the Great Saunter midway stop.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.84814" lon="-73.927772">
@@ -156,7 +156,7 @@
   </wpt>
   <wpt lat="40.870555" lon="-73.921516">
     <name><![CDATA[Refreshments]]></name>
-    <desc><![CDATA[Lunch break: Snacks/drinks 11:00 am-2 pm]]></desc>
+    <desc><![CDATA[Midway stop 11:00 am-2 pm]]></desc>
     <type>refreshments</type>
   </wpt>
   <wpt lat="40.847182" lon="-73.946131">
@@ -196,12 +196,12 @@
   </wpt>
   <wpt lat="40.806585" lon="-73.935357">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[128th St. & Lexington Ave.]]></desc>
+    <desc><![CDATA[Alice Kornegay Triangle]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.868409" lon="-73.932028">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Marina]]></desc>
+    <desc><![CDATA[Dyckman Marina]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.70341" lon="-74.011192">
@@ -211,7 +211,7 @@
   </wpt>
   <wpt lat="40.819672" lon="-73.936151">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Charles Young playground]]></desc>
+    <desc><![CDATA[Colonel Charles Young Playground]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.748102" lon="-73.968691">
@@ -261,7 +261,7 @@
   </wpt>
   <wpt lat="40.760598" lon="-74.003096">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[39th St. ferry terminal]]></desc>
+    <desc><![CDATA[39th St. Ferry Terminal]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.76317" lon="-74.000623">
@@ -274,12 +274,7 @@
     <desc><![CDATA[The Forum - walk on north side of  125th St.]]></desc>
     <type>restrooms</type>
   </wpt>
-  <wpt lat="40.759412" lon="-73.958876">
-    <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[24 Sycamores Park]]></desc>
-    <type>restrooms</type>
-  </wpt>
-  <wpt lat="40.745012" lon="-73.97322">
+  <wpt lat="40.744868" lon="-73.97329">
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[St. Vartan Park]]></desc>
     <type>restrooms</type>
@@ -336,7 +331,7 @@
   </wpt>
   <wpt lat="40.823623" lon="-73.943442">
     <name><![CDATA[Mile Marker]]></name>
-    <desc><![CDATA[Left on 143rd St, right on Fifth Ave., left on 128th St. to 2nd Ave.]]></desc>
+    <desc><![CDATA[20 Miles]]></desc>
     <type>mile-marker</type>
   </wpt>
   <wpt lat="40.791937" lon="-73.934824">
@@ -366,7 +361,7 @@
   </wpt>
   <wpt lat="40.740215" lon="-74.010131">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Gansevoort Peninsula pavillion]]></desc>
+    <desc><![CDATA[Gansevoort Peninsula Pavillion]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.710145" lon="-73.982501">
@@ -384,7 +379,7 @@
     <desc><![CDATA[Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St.]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.720833" lon="-73.9811936">
+  <wpt lat="40.720833" lon="-73.981194">
     <name><![CDATA[Route Info]]></name>
     <desc><![CDATA[Left on E. Houston St to Avenue D.]]></desc>
     <type>route-info</type>
@@ -399,19 +394,44 @@
     <desc><![CDATA[Right on 2nd Ave., left on 120th St. to Pleasant Ave. ]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.7159335" lon="-73.9816072">
+  <wpt lat="40.715934" lon="-73.981607">
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Luther Gulick Playground]]></desc>
     <type>restrooms</type>
   </wpt>
-  <wpt lat="40.7158545" lon="-73.9808442">
+  <wpt lat="40.715855" lon="-73.980844">
     <name><![CDATA[Route Info]]></name>
     <desc><![CDATA[Left on Delancey St. after crossing under the Williamsburg Bridge.]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.86255898720236" lon="-73.92066070022506">
+  <wpt lat="40.862559" lon="-73.920661">
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Monsignor Kett Playground]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.7052" lon="-74.018083">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Wagner Park]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.74854" lon="-74.008419">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Pier 62]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.769938" lon="-73.995416">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Pier 94]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.797143" lon="-73.976353">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Riverside Clay Tennis Association Porta Potty]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.711794" lon="-73.979711">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Corlears Hook Park]]></desc>
     <type>restrooms</type>
   </wpt>
 </gpx>
