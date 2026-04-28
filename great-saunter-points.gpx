@@ -16,7 +16,7 @@
   </wpt>
   <wpt lat="40.731274" lon="-73.973534">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Exit Stuyvesant Cove Park. Carefully cross FDR access road and continue south along Avenue C.]]></desc>
+    <desc><![CDATA[Exit Stuyvesant Cove Park. Carefully cross FDR access road. Continue south along Avenue C.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.71407" lon="-73.976529">
@@ -46,7 +46,7 @@
   </wpt>
   <wpt lat="40.744472" lon="-73.972784">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on 35th St., carefully cross the service road and go under the FDR to the East River Esplanade then go right.]]></desc>
+    <desc><![CDATA[Left on 35th St. Carefully cross the service road under the FDR to the East River Esplanade, then go right.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.761234" lon="-73.95767">
@@ -61,22 +61,22 @@
   </wpt>
   <wpt lat="40.703451" lon="-74.011462">
     <name><![CDATA[Mile Marker]]></name>
-    <desc><![CDATA[Mile 32.45. Finish the Great Saunter at Fraunces Tavern at Pearl and Broad Streets.]]></desc>
+    <desc><![CDATA[Finish the Great Saunter 5-10 pm at Fraunces Tavern at Pearl and Broad Streets.]]></desc>
     <type>mile-marker</type>
   </wpt>
   <wpt lat="40.702322" lon="-74.009565">
     <name><![CDATA[Mile Marker]]></name>
-    <desc><![CDATA[0 miles. Start the Great Saunter on South St. at the southern end of the plaza adjacent to 55 Water Street]]></desc>
+    <desc><![CDATA[Start the Great Saunter 7-8 am at the south end of the plaza adjacent to 55 Water St. Exit plaza at South St. and turn right. Walk past Staten Island Ferry Terminal. Continue along State St. past Battery Park. Turn left on Battery Pl.]]></desc>
     <type>mile-marker</type>
   </wpt>
-  <wpt lat="40.704453" lon="-74.014376">
+  <wpt lat="40.704797" lon="-74.017238">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on Battery Place, left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River.]]></desc>
+    <desc><![CDATA[Left into Wagner Park. Proceed north on the Esplanade. Follow construction signs back to Battery Pl. and turn left. Left on W. Thames St. to the Esplanade.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.801141" lon="-73.974359">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Caution: at 101st St. walk on the left side of the walkway, and watch out for bikes.]]></desc>
+    <desc><![CDATA[Caution: at 101st St. walk on the left side of the walkway. Watch out for bikes.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.870234" lon="-73.921382">
@@ -86,7 +86,7 @@
   </wpt>
   <wpt lat="40.869932" lon="-73.921051">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St.]]></desc>
+    <desc><![CDATA[Exit Inwood Hill Park at Isham St., right on 10th Ave. Cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.82594" lon="-73.941296">
@@ -96,7 +96,7 @@
   </wpt>
   <wpt lat="40.869305" lon="-73.931606">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Cross Dyckman St. and enter Inwood Hill Park. Walk alongside the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill.]]></desc>
+    <desc><![CDATA[Cross Dyckman St., enter Inwood Hill Park. Walk alongside the train tracks. Take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.868647" lon="-73.93122">
@@ -116,7 +116,7 @@
   </wpt>
   <wpt lat="40.782911" lon="-73.944555">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Stanley Issacs Playground]]></desc>
+    <desc><![CDATA[Stanley Isaacs Playground]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.768842" lon="-73.949277">
@@ -136,17 +136,17 @@
   </wpt>
   <wpt lat="40.84814" lon="-73.927772">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge, and the High Bridge.]]></desc>
+    <desc><![CDATA[Walk south along the Harlem River, passing beneath the Washington Bridge, Alexander Hamilton Bridge, and the High Bridge.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.830462" lon="-73.940018">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St.]]></desc>
+    <desc><![CDATA[Cross 155th St. and bear left past the fountain. Proceed along Edgecombe Ave. to 145th St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.797639" lon="-73.931473">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Right on Pleasant Ave, enter Thomas Jefferson Park, follow the park walkway and cross the pedestrian bridge at 112th St.]]></desc>
+    <desc><![CDATA[Right on Pleasant Ave. Enter Thomas Jefferson Park, follow the park walkway and cross the pedestrian bridge at 112th St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.770031" lon="-73.949488">
@@ -171,7 +171,7 @@
   </wpt>
   <wpt lat="40.773033" lon="-73.944545">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Go south on John Finley Walk, follow the ramp down at 81st St., exit the walkway on the 78th St. Pedestrian Bridge.]]></desc>
+    <desc><![CDATA[Go south on John Finley Walk, follow the ramp down at 81st St., exit the walkway via the 78th St. Pedestrian Bridge.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.77335" lon="-73.944366">
@@ -191,7 +191,7 @@
   </wpt>
   <wpt lat="40.823734" lon="-73.943703">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on 145th St., down the hill, right on Malcolm X Blvd.]]></desc>
+    <desc><![CDATA[Left on 145th St., down the hill. Right on Malcolm X Blvd.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.806585" lon="-73.935357">
@@ -216,7 +216,7 @@
   </wpt>
   <wpt lat="40.748102" lon="-73.968691">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[NE corner Robert Moses Playground]]></desc>
+    <desc><![CDATA[Robert Moses Playground]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.783679" lon="-73.986475">
@@ -289,9 +289,9 @@
     <desc><![CDATA[10 miles]]></desc>
     <type>mile-marker</type>
   </wpt>
-  <wpt lat="40.706885" lon="-74.017803">
+  <wpt lat="40.708855" lon="-74.018597">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Follow the Esplanade north past Brookfield Place to Hudson River Park and continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers and the Intrepid.]]></desc>
+    <desc><![CDATA[Follow the Esplanade north past Brookfield Place to Hudson River Park. Continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers, and the Intrepid.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.773179" lon="-73.993827">
@@ -301,22 +301,22 @@
   </wpt>
   <wpt lat="40.858842" lon="-73.92279">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Bear left and enter the Harlem River Drive Greenway in front of the school.]]></desc>
+    <desc><![CDATA[In front of the school, bear left to enter the Harlem River Drive Greenway.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.835822" lon="-73.934787">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Follow the ramp away from the river, carefully cross the street at the end of the ramp, turn right and go up the hill to 155th St.]]></desc>
+    <desc><![CDATA[Follow the ramp away from the river. Carefully cross at the end of the ramp, turn right and go up the hill to 155th St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.703107" lon="-74.007348">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Just past Pier 11, turn right and cross South St. into Old Slip, cross Water St., go left on Pearl St. and continue to the finish at Fraunces Tavern.]]></desc>
+    <desc><![CDATA[Just past Pier 11, turn right and cross South St. to Old Slip, cross Water St., go left on Pearl St. and continue to the finish at Fraunces Tavern.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.818514" lon="-73.961494">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Follow the Greenway under the highway, past Riverbank State Park and into Fort Washington Park.]]></desc>
+    <desc><![CDATA[Follow the Greenway under the highway, past Riverbank State Park, and into Ft. Washington Park.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.819003" lon="-73.961034">
@@ -336,7 +336,7 @@
   </wpt>
   <wpt lat="40.791937" lon="-73.934824">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Go straight at the end of the bridge and walk south with the Harlem River on your left. Enter Carl Schurz Park at 88th St.]]></desc>
+    <desc><![CDATA[Go straight at the end of the bridge. Walk south (with the Harlem River on your left) to 96th St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.705545" lon="-74.001569">
@@ -381,12 +381,12 @@
   </wpt>
   <wpt lat="40.720833" lon="-73.981194">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on E. Houston St to Avenue D.]]></desc>
+    <desc><![CDATA[Left on E. Houston St. to Avenue D/Columbia St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.819134" lon="-73.936952">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on 143rd St, right on Fifth Ave., left on 128th St. to 2nd Ave.]]></desc>
+    <desc><![CDATA[Left on 143rd St, right on 5th Ave., left on 128th St. to 2nd Ave.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.804675" lon="-73.932276">
@@ -401,7 +401,7 @@
   </wpt>
   <wpt lat="40.715855" lon="-73.980844">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Left on Delancey St. after crossing under the Williamsburg Bridge.]]></desc>
+    <desc><![CDATA[Left on Delancey St. after crossing below the Williamsburg Bridge.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.862559" lon="-73.920661">
@@ -411,7 +411,7 @@
   </wpt>
   <wpt lat="40.7052" lon="-74.018083">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Wagner Park]]></desc>
+    <desc><![CDATA[Wagner Park Pavillion]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.74854" lon="-74.008419">
@@ -433,5 +433,30 @@
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Corlears Hook Park]]></desc>
     <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.857751" lon="-73.922046">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Swindler Cove Park]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.874149" lon="-73.92022">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Inwood Hill Nature Center]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.772036" lon="-73.994545">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Pier 97]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.782728" lon="-73.943676">
+    <name><![CDATA[Route Info]]></name>
+    <desc><![CDATA[Exit esplanade at 96th St. Cross FDR Drive and turn left. Bear right at York Ave. Continue on York Ave. to 90th St.]]></desc>
+    <type>route-info</type>
+  </wpt>
+  <wpt lat="40.778597" lon="-73.945339">
+    <name><![CDATA[Route Info]]></name>
+    <desc><![CDATA[Cross York Ave. at 90th St. Turn right at East End Ave. At 89th St., go left to enter Carl Schurz Park. Bear left around Gracie Mansion. Bear right to rejoin John Finley Walk heading south.]]></desc>
+    <type>route-info</type>
   </wpt>
 </gpx>
