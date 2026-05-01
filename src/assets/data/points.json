@@ -1380,21 +1380,6 @@
                     40.782728
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Route Info",
-                "type": "route-info",
-                "description": "Cross York Ave. at 90th St. Turn right at East End Ave. At 89th St., go left to enter Carl Schurz Park. Bear left around Gracie Mansion. Bear right to rejoin John Finley Walk heading south."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.945339,
-                    40.778597
-                ]
-            }
         }
     ]
 }
