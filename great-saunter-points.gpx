@@ -454,9 +454,4 @@
     <desc><![CDATA[Exit esplanade at 96th St. Cross FDR Drive and turn left. Bear right at York Ave. Continue on York Ave. to 90th St.]]></desc>
     <type>route-info</type>
   </wpt>
-  <wpt lat="40.778597" lon="-73.945339">
-    <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Cross York Ave. at 90th St. Turn right at East End Ave. At 89th St., go left to enter Carl Schurz Park. Bear left around Gracie Mansion. Bear right to rejoin John Finley Walk heading south.]]></desc>
-    <type>route-info</type>
-  </wpt>
 </gpx>
