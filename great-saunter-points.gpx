@@ -336,7 +336,7 @@
   </wpt>
   <wpt lat="40.791937" lon="-73.934824">
     <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Go straight at the end of the bridge. Walk south (with the Harlem River on your left) to 96th St.]]></desc>
+    <desc><![CDATA[Go straight at the end of the bridge. Walk south with the Harlem River on your left. Enter Carl Schurz Park at 90th St.]]></desc>
     <type>route-info</type>
   </wpt>
   <wpt lat="40.705545" lon="-74.001569">
@@ -448,10 +448,5 @@
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Pier 97]]></desc>
     <type>restrooms</type>
-  </wpt>
-  <wpt lat="40.782728" lon="-73.943676">
-    <name><![CDATA[Route Info]]></name>
-    <desc><![CDATA[Exit esplanade at 96th St. Cross FDR Drive and turn left. Bear right at York Ave. Continue on York Ave. to 90th St.]]></desc>
-    <type>route-info</type>
   </wpt>
 </gpx>
