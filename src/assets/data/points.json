@@ -1129,21 +1129,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.982501,
-                    40.710145
-                ]
-            },
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Pier 42 Upland Park"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.984302,
                     40.710248
                 ]
