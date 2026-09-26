@@ -16,6 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm deploy`
+## Deployment
 
-Builds and eploys the site to github pages using the `gh-pages` npm package
+The site is deployed to GitHub Pages (https://map.shorewalkers.org) by the [Deploy to GitHub Pages](.github/workflows/deploy.yml) GitHub Action, which runs whenever a PR is merged into `main` (or manually from the Actions tab).
