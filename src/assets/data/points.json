@@ -312,7 +312,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Parks Dept. building"
+                "description": "Parks Dept building"
             },
             "id": 20
         },
@@ -496,7 +496,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Under stairway."
+                "description": "Ft Washington Park Tennis Courts (under stairway)"
             }
         },
         {
@@ -609,22 +609,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.932028,
-                    40.868409
-                ]
-            },
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Dyckman Marina"
-            },
-            "id": 40
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -74.011192,
                     40.70341
                 ]
@@ -713,7 +697,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "behind Pier i cafe",
+                "description": "Behind Pier i cafe",
                 "name ": ""
             }
         },
@@ -729,7 +713,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "1st floor lobby by P.J. Clarke's"
+                "description": "Brookfield 1st fl lobby by P.J. Clarke's"
             }
         },
         {
@@ -804,7 +788,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "39th St. Ferry Terminal"
+                "description": "39th St Ferry Terminal"
             }
         },
         {
@@ -834,7 +818,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "The Forum - walk on north side of  125th St."
+                "description": "The Forum - walk on north side of 125th St"
             }
         },
         {
@@ -849,7 +833,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "St. Vartan Park"
+                "description": "St Vartan Park"
             },
             "id": 56
         },
@@ -1129,21 +1113,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.982501,
-                    40.710145
-                ]
-            },
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Pier 42 Upland Park"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.984302,
                     40.710248
                 ]
@@ -1323,31 +1292,76 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Swindler Cove Park"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.922046,
                     40.857751
                 ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Swindler Cove Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92022,
+                    40.874149
+                ]
+            },
+            "properties": {
+                "description": "Inwood Hill Nature Center",
+                "name": "Restrooms",
+                "type": "restrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.994545,
+                    40.772036
+                ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Pier 97"
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Inwood Hill Nature Center",
+                "description": "Pier 40 Courtyard Tunnel",
                 "name": "Restrooms",
                 "type": "restrooms"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.92022,
-                    40.874149
+                    -74.011473,
+                    40.728788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Brookfield Ferry Terminal",
+                "name": "Restrooms",
+                "type": "restrooms"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.017597,
+                    40.715111
                 ]
             }
         },
@@ -1356,13 +1370,58 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Pier 97"
+                "description": "MacArthur Playground"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.994545,
-                    40.772036
+                    -73.965036,
+                    40.752406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Thomas Jefferson Park unisex \"Portland Loo\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.934698,
+                    40.793886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Abraham Lincoln Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937099,
+                    40.812287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Frederick Johnson Playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.936153,
+                    40.824937
                 ]
             }
         }
