@@ -101,7 +101,7 @@
   </wpt>
   <wpt lat="40.868647" lon="-73.93122">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Parks Dept. building]]></desc>
+    <desc><![CDATA[Parks Dept building]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.827942" lon="-73.939963">
@@ -161,7 +161,7 @@
   </wpt>
   <wpt lat="40.847182" lon="-73.946131">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Under stairway.]]></desc>
+    <desc><![CDATA[Ft Washington Park Tennis Courts (under stairway)]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.773634" lon="-73.945158">
@@ -199,11 +199,6 @@
     <desc><![CDATA[Alice Kornegay Triangle]]></desc>
     <type>restrooms</type>
   </wpt>
-  <wpt lat="40.868409" lon="-73.932028">
-    <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Dyckman Marina]]></desc>
-    <type>restrooms</type>
-  </wpt>
   <wpt lat="40.70341" lon="-74.011192">
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Fraunces Tavern]]></desc>
@@ -231,12 +226,12 @@
   </wpt>
   <wpt lat="40.779821" lon="-73.98862">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[behind Pier i cafe]]></desc>
+    <desc><![CDATA[Behind Pier i cafe]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.713709" lon="-74.015963">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[1st floor lobby by P.J. Clarke's]]></desc>
+    <desc><![CDATA[Brookfield 1st fl lobby by P.J. Clarke's]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.720054" lon="-74.012731">
@@ -261,7 +256,7 @@
   </wpt>
   <wpt lat="40.760598" lon="-74.003096">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[39th St. Ferry Terminal]]></desc>
+    <desc><![CDATA[39th St Ferry Terminal]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.76317" lon="-74.000623">
@@ -271,12 +266,12 @@
   </wpt>
   <wpt lat="40.816463" lon="-73.958667">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[The Forum - walk on north side of  125th St.]]></desc>
+    <desc><![CDATA[The Forum - walk on north side of 125th St]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.744868" lon="-73.97329">
     <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[St. Vartan Park]]></desc>
+    <desc><![CDATA[St Vartan Park]]></desc>
     <type>restrooms</type>
   </wpt>
   <wpt lat="40.758196" lon="-74.004587">
@@ -369,11 +364,6 @@
     <desc><![CDATA[Pier 42 Upland Park]]></desc>
     <type>restrooms</type>
   </wpt>
-  <wpt lat="40.710145" lon="-73.982501">
-    <name><![CDATA[Restrooms]]></name>
-    <desc><![CDATA[Pier 42 Upland Park]]></desc>
-    <type>restrooms</type>
-  </wpt>
   <wpt lat="40.710248" lon="-73.984302">
     <name><![CDATA[Route Info]]></name>
     <desc><![CDATA[Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St.]]></desc>
@@ -447,6 +437,36 @@
   <wpt lat="40.772036" lon="-73.994545">
     <name><![CDATA[Restrooms]]></name>
     <desc><![CDATA[Pier 97]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.728788" lon="-74.011473">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Pier 40 Courtyard Tunnel]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.715111" lon="-74.017597">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Brookfield Ferry Terminal]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.752406" lon="-73.965036">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[MacArthur Playground]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.793886" lon="-73.934698">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Thomas Jefferson Park unisex "Portland Loo"]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.812287" lon="-73.937099">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Abraham Lincoln Playground]]></desc>
+    <type>restrooms</type>
+  </wpt>
+  <wpt lat="40.824937" lon="-73.936153">
+    <name><![CDATA[Restrooms]]></name>
+    <desc><![CDATA[Frederick Johnson Playground]]></desc>
     <type>restrooms</type>
   </wpt>
 </gpx>
