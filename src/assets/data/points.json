@@ -36,8 +36,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.973534,
-                    40.731274
+                    -73.973543,
+                    40.731448
                 ]
             },
             "properties": {
@@ -145,14 +145,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.95767,
-                    40.761234
+                    -73.954156,
+                    40.766217
                 ]
             },
             "properties": {
                 "name": "Route Info",
                 "type": "route-info",
-                "description": "Left on 63rd St. to the pedestrian bridge and back to the walkway."
+                "description": "Left on 71st St. to the pedestrian bridge and back to the walkway"
             },
             "id": 11
         },
@@ -216,7 +216,7 @@
             "properties": {
                 "name": "Route Info",
                 "type": "route-info",
-                "description": "Left into Wagner Park. Proceed north on the Esplanade. Follow construction signs back to Battery Pl. and turn left. Left on W. Thames St. to the Esplanade."
+                "description": "Left into Wagner Park. Proceed north on the Esplanade. Follow construction signs back to Battery Pl. and turn left. Left on W. Thames St. to S. End Ave."
             }
         },
         {
@@ -465,7 +465,7 @@
             "properties": {
                 "name": "Route Info",
                 "type": "route-info",
-                "description": "Left on Cherokee Place, right on 76th St., left on York Ave."
+                "description": "Left on Cherokee Place, right on 76th St., left on York Ave to 71st St."
             },
             "id": 30
         },
@@ -872,14 +872,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.018597,
-                    40.708855
+                    -74.017575,
+                    40.708441
                 ]
             },
             "properties": {
                 "name": "Route Info",
                 "type": "route-info",
-                "description": "Follow the Esplanade north past Brookfield Place to Hudson River Park. Continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers, and the Intrepid."
+                "description": "Follow S. End Ave. north past Brookfield Place to Hudson River Park. Continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers, and the Intrepid."
             }
         },
         {
@@ -1120,7 +1120,7 @@
             "properties": {
                 "name": "Route Info",
                 "type": "route-info",
-                "description": "Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St."
+                "description": "Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Rutgers Slip and follow South St. to traffic light at Dover St."
             }
         },
         {
@@ -1337,91 +1337,106 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "description": "Pier 40 Courtyard Tunnel",
-                "name": "Restrooms",
-                "type": "restrooms"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -74.011473,
                     40.728788
                 ]
+            },
+            "properties": {
+                "description": "Pier 40 Courtyard Tunnel",
+                "name": "Restrooms",
+                "type": "restrooms"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "description": "Brookfield Ferry Terminal",
-                "name": "Restrooms",
-                "type": "restrooms"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -74.017597,
                     40.715111
                 ]
+            },
+            "properties": {
+                "description": "Brookfield Ferry Terminal",
+                "name": "Restrooms",
+                "type": "restrooms"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "MacArthur Playground"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.965036,
                     40.752406
                 ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "MacArthur Playground"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Thomas Jefferson Park unisex \"Portland Loo\""
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.934698,
                     40.793886
                 ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Thomas Jefferson Park unisex \"Portland Loo\""
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Abraham Lincoln Playground"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.937099,
                     40.812287
                 ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Abraham Lincoln Playground"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Frederick Johnson Playground"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.936153,
                     40.824937
+                ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Frederick Johnson Playground"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route Info",
+                "type": "route-info",
+                "description": "Follow detour signs around Stuyvesant High School to return to Esplanade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.014752,
+                    40.718489
                 ]
             }
         }
